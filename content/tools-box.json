@@ -1,0 +1,21 @@
+{
+  "title": "Boite à outils",
+  "subtitle": "Inclus ",
+  "description": "<p>Au delà de l’apprentissage obtenez gratuitement notre boite à outils complet estimé à $820 CAD. </p> <p>Bénéficier d’un accès premium à Canadin App pendant 12 Mois </p> <p>Obtenez le label Canadin Certified</p>",
+  "tools": [
+    { "title": "Canadin App", "image": "http://via.placeholder.com/300" },
+    {
+      "title": "30 Min One to One ",
+      "image": "http://via.placeholder.com/300"
+    },
+    { "title": "E-book 1", "image": "http://via.placeholder.com/300" },
+    { "title": "E-book 2", "image": "http://via.placeholder.com/300" },
+    { "title": "E-book 3", "image": "http://via.placeholder.com/300" },
+    {
+      "title": "Branding",
+      "image": "http://via.placeholder.com/300"
+    },
+    { "title": "Quiz", "image": "http://via.placeholder.com/300" },
+    { "title": "Attestation", "image": "http://via.placeholder.com/300" }
+  ]
+}

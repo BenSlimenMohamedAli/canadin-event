@@ -1,0 +1,83 @@
+{
+  "title": "Programme",
+  "list": [
+    {
+      "date": "04 Fév 2022",
+      "title": "Bénéficier d’un accompagnement personnalisée"
+    },
+    {
+      "date": "11,12 Fév 2022",
+      "title": "Démarche pour obtenir un Permis de travail au Québec/ Coaching Emploi"
+    },
+    {
+      "date": "18 Fév 2022",
+      "title": "linkedin pour trouver un emploi au Québec"
+    },
+    { "date": "25 Fév 2022", "title": "Installation & Intégration au Québec" }
+  ],
+  "speakers1": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Aymen Jhidri",
+      "image": "speakers/aymen.jpg",
+      "linkedin": "https://www.linkedin.com/in/aymen-jhidri/ ",
+      "visibleIndex": 0
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Souad Belghith",
+      "image": "speakers/souad.jpg",
+      "linkedin": "https://www.linkedin.com/in/souad-belghith-8a2a6050/",
+      "visibleIndex": 0
+    }
+  ],
+  "speakers2": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Mohamed Talhaoui",
+      "image": "speakers/mohamed.jpg",
+      "linkedin": "https://www.linkedin.com/in/talhaouitransfertdentreprise/",
+      "visibleIndex": 1
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Emily Sauvé",
+      "image": "speakers/emelie.jpg",
+      "linkedin": "https://www.linkedin.com/in/emilie-sauv%C3%A9-23898727/",
+      "visibleIndex": 1
+    }
+  ],
+  "speakers3": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Amokrane Mariche",
+      "image": "speakers/amokrane.jpeg",
+      "linkedin": "https://www.linkedin.com/in/amomariche/",
+      "visibleIndex": -1
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Vicky Lapointe",
+      "image": "speakers/vicky.jpg",
+      "linkedin": "https://www.linkedin.com/in/vicky-lapointe-21469297/",
+      "visibleIndex": 3
+    }
+  ],
+
+  "speakers4": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Amokrane Mariche",
+      "image": "speakers/amokrane.jpeg",
+      "linkedin": "https://www.linkedin.com/in/amomariche/",
+      "visibleIndex": 2
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Vicky Lapointe",
+      "image": "speakers/vicky.jpg",
+      "linkedin": "https://www.linkedin.com/in/vicky-lapointe-21469297/",
+      "visibleIndex": -1
+    }
+  ]
+}
