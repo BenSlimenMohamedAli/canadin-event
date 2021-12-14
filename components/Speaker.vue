@@ -54,6 +54,6 @@ export default Vue.extend({
   bottom: 0;
   background: gray;
   width: 100%;
-  z-index: 1111111;
+  z-index: 1;
 }
 </style>
