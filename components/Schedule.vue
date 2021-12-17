@@ -16,7 +16,7 @@
           >
             <button>
               <a :href="'#' + index + 'a'" data-toggle="tab">
-                first day
+                {{ item.topTitle }}
                 <span>{{ item.date }}</span>
               </a>
             </button>
