@@ -14,7 +14,7 @@
             </ul>
             <h1>{{ data.title }}</h1>
             <hr />
-            <p>{{ data.description }}</p>
+            <h2 class="text-white">{{ data.description }}</h2>
             <div id="defaultCountdown" class="mt-5"></div>
             <ul class="social-icons">
               <li>
@@ -41,7 +41,7 @@
           </div>
         </div>
         <div class="col-lg-5 col-md-12 col-sm-12">
-          <div class="register-form">
+          <div class="register-form" style="height: 100%">
             <div class="form-title">
               <h4>{{ data.rightBox.title }}</h4>
             </div>
@@ -53,9 +53,10 @@
               onsubmit="return validateForm()"
             >
               <div>
-                <h5 class="text-white h5">
-                  {{ data.rightBox.description }}
-                </h5>
+                <h5
+                  class="text-white h5"
+                  v-html="data.rightBox.description"
+                ></h5>
               </div>
               <div id="contact_submit" class="input-box mr mt-5">
                 <a

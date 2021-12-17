@@ -1,15 +1,15 @@
-/*------------------------------------------------------------------ 
+/*------------------------------------------------------------------
 [Master Stylesheet] Project: Event Premium
 -------------------------------------------------------------------*/
-/*------------------------------------------------------------------ 
-[Table of contents] 
+/*------------------------------------------------------------------
+[Table of contents]
 1. Top-Header / Navigation
 2. Banner & From
 5. Welcome to Annual Conference
 6. Counts
 7. Speakers
 8. Why Choose Us
-9. Event Schedule 
+9. Event Schedule
 10. What People Say about Previous Events
 11. Packages
 12. Sponsors
@@ -18,7 +18,7 @@
 15. CTA
 16. Map & Contact Info.
 17. Footer
-18. footer 
+18. footer
  ----------------------------------- --------------------------------*/
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
      margin: 0;
@@ -59,27 +59,27 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 hr {
     display: inline-block;
     width: 60px;
-    border-top: 4px solid #f25420;
+    border-top: 4px solid #ED282F;
     margin: 15px 0;
 }
 h1, h2, h3, h4{
-   font-family: 'Oswald', sans-serif;  
+   font-family: 'Oswald', sans-serif;
    font-weight: bold;
 }
 h1{
      font-size: 50px;
      line-height: 56px;
-     text-transform: uppercase; 
+     text-transform: uppercase;
 }
 h2{
      font-size: 40px;
      line-height: 56px;
-     text-transform: uppercase; 
+     text-transform: uppercase;
 }
 h3{
      font-size: 36px;
      line-height: 50px;
-     text-transform: uppercase; 
+     text-transform: uppercase;
 }
 h4{
      font-size: 30px;
@@ -143,17 +143,17 @@ button:focus{
     top: 38px;
 }
 #top-header #cd-main-nav li:before {
-    background: #f25421;
+    background: #EC1D23;
     height: 4px;
     width: 0;
     bottom: 0;
     transition: all 0.5s ease;
 }
 #top-header #cd-main-nav li:hover:before{
-    width: 100%; 
+    width: 100%;
 }
 #top-header #cd-main-nav li a:hover{
-     color: #f25421;
+     color: #EC1D23;
 }
 #top-header #cd-main-nav li:last-child:after{
      content: none;
@@ -164,7 +164,7 @@ button:focus{
 
 /*-------------------------------------------------
                Banner & From
--------------------------------------------------*/ 
+-------------------------------------------------*/
 #main-banner-sec {
     background: url(../images/main-banner.jpg) no-repeat;
     background-size: cover;
@@ -200,7 +200,7 @@ label.error{
 }
 .register-form p a{
      font-weight: 500;
-     color: #f25421;
+     color: #EC1D23;
      text-decoration: none;
 }
 .userform {
@@ -235,12 +235,12 @@ label.error{
 .userform input::-webkit-input-placeholder{
      color: #b1b1b1;
      text-transform: uppercase;
-} 
+}
 .userform input::-moz-placeholder{
      color: #b1b1b1;
      opacity: 1;
      text-transform: uppercase;
-} 
+}
 .userform input:focus::-moz-input-placeholder {
     color: #363636;
 }
@@ -252,7 +252,7 @@ label.error{
     font-weight: 500;
 }
 .userform .submit-btn {
-    background: #f25421;
+    background: #EC1D23;
     color: #fff;
     border-top: 0;
     border-right: 0;
@@ -273,8 +273,8 @@ label.error{
     height: auto;
 }
 .userform .submit-btn:hover{
-   background: #a93b17; 
-   border-bottom: 5px solid #f25421; 
+   background: #a93b17;
+   border-bottom: 5px solid #EC1D23;
 }
 .userform strong{
     font-size: 13px;
@@ -285,7 +285,7 @@ label.error{
 }
 .error{
     display: none;
-}       
+}
 .error_show{
     color: red;
     font-size: 13px;
@@ -325,7 +325,7 @@ display: block;
     width: 9px;
     height: 9px;
     border-radius: 50%;
-    background:  #f25421;
+    background:  #EC1D23;
 
 }
 .checkmark:after {
@@ -351,7 +351,7 @@ display: block;
     width: 9px;
     height: 9px;
     border-radius: 50%;
-    background:  #f25421;
+    background:  #EC1D23;
 
 }
 .custom-radio input:checked ~ .checkmark2:after{
@@ -398,7 +398,7 @@ span.help-block {
     font-size: 28px;
     font-weight: bold;
     font-family: 'Oswald', sans-serif;
-    background: #f25421;
+    background: #EC1D23;
     text-transform: uppercase;
     display: inline-block;
     padding: 15px 25px;
@@ -430,7 +430,7 @@ span.help-block {
     width: 125px;
     font-size: 24px;
     color: #fff;
-    margin:40px 5px; 
+    margin:40px 5px;
     text-transform: uppercase;
     padding: 15px 10px;
 }
@@ -444,7 +444,7 @@ span.help-block {
      font-size: 30px;
      line-height: 36px;
      font-weight: bold;
-     color: #f25421;
+     color: #EC1D23;
      font-family: 'Oswald', sans-serif;
 }
 .social-icons li {
@@ -473,11 +473,11 @@ span.help-block {
      transition: all 0.5s ease;
 }
 .social-icons li a:hover{
-     color: #f25421;
+     color: #EC1D23;
 }
 /*-------------------------------------------------
                Welcome to Annual Conference
--------------------------------------------------*/ 
+-------------------------------------------------*/
 #annual-conference-sec {
     padding: 70px 0;
     background-color: #f3f3f3;
@@ -485,7 +485,7 @@ span.help-block {
 }
 #annual-conference-sec:before {
     content: "";
-    background: #f25420;
+    background: #ED282F;
     height: 100%;
     width: 25%;
     top: 0;
@@ -546,7 +546,7 @@ figure.video-bg-sec figcaption .btn-primary {
     background-color: rgba(0, 0, 0,0.8);
 }
 /*figure.video-bg-sec figcaption .btn-primary:hover{
-   animate css 
+   animate css
 }*/
 figure.video-bg-sec figcaption .btn-primary:focus,
 figure.video-bg-sec figcaption .btn-primary:active:focus,
@@ -623,9 +623,9 @@ figure.video-bg-sec figcaption .btn-primary:active{
     -webkit-backface-visibility: hidden;
     -moz-osx-font-smoothing: grayscale;
     text-transform: uppercase;
-    color: #f25421;
+    color: #EC1D23;
     font-weight: bold;
-    transition: all 0.5s ease; 
+    transition: all 0.5s ease;
 }
 .button--antiman::before,
 .button--antiman::after {
@@ -651,12 +651,12 @@ figure.video-bg-sec figcaption .btn-primary:active{
     transform: scale3d(1.2, 1.2, 1);
 }
 .button--antiman.button--inverted-alt::before {
-    border-color: #f25420;
+    border-color: #ED282F;
     background: #ff3e00;
 }
 .button--antiman.button--inverted-alt::after {
     background: transparent;
-    border: 2px solid #f25420;
+    border: 2px solid #ED282F;
 }
 .button--antiman.button--inverted-alt:hover {
     color: #ffffff;
@@ -675,7 +675,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
 
 /*-------------------------------------------------
                     Counts
--------------------------------------------------*/ 
+-------------------------------------------------*/
 #counts-sec{
     background:url(../images/count-banner.jpg) no-repeat;
     background-size: cover;
@@ -715,7 +715,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
 }
 /*-------------------------------------------------
                     Speakers
--------------------------------------------------*/ 
+-------------------------------------------------*/
 #our-speakers-sec{
     background:url(../images/speakers-bg.jpg) no-repeat;
     display: block;
@@ -780,14 +780,14 @@ figure.video-bg-sec figcaption .btn-primary:active{
     background: #ffffff;
 }
 .speaker-box figcaption .button--antiman.button--inverted-alt:hover {
-    color: #f25420;
+    color: #ED282F;
 }
 .speaker-box:hover figcaption span{
     display: block;
 }
 .speaker-box:hover figcaption {
     bottom: 0;
-    background: rgba(242,84,33,0.8);
+    background: rgba(231, 50, 50, 0.8);
     /*bottom: -81%;*/
     padding: 36px 45px;
 }
@@ -864,7 +864,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
 
 .confrence-bg .confrence-title{
     position: relative;
-    padding-left: 85px; 
+    padding-left: 85px;
 }
 
 .confrence-bg .confrence-title h3{
@@ -879,7 +879,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
     height: 67px;
     line-height: 67px;
     font-size: 24px;
-    color: #f25421;
+    color: #EC1D23;
     text-align: center;
     border: solid 1px rgba(0,0,0,0.12);
     border-radius: 50%;
@@ -895,7 +895,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
     -ms-transform: translateY(-50%);
 }
 
-.confrence-bg .confrence-col-inn p{    
+.confrence-bg .confrence-col-inn p{
     font-size: 16px;
     line-height: 28px;
     font-weight: 500;
@@ -930,7 +930,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
 }
 .event-schedule figcaption{
     position: absolute;
-    top: 15px;  
+    top: 15px;
     right: 15px;
 }
 .event-schedule figcaption ul li{
@@ -947,7 +947,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
 
 .event-icon i{
     color: #ffffff;
-    background-color: #f25421;
+    background-color: #EC1D23;
     height: 30px;
     width: 30px;
     font-size: 14px !important;
@@ -962,7 +962,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
     margin-bottom: 40px;
 }
 .event-schedule:hover{
-     border: 1px solid #f25421;
+     border: 1px solid #EC1D23;
 }
 .event-icon {
     display: none;
@@ -984,7 +984,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
 }
 .event-time i{
     color: #ffffff;
-    background-color: #f25421;
+    background-color: #EC1D23;
     height: 30px;
     width: 30px;
     font-size: 14px !important;
@@ -1004,7 +1004,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
     font-family: 'Montserrat', sans-serif;
 }
 .event-info i{
-    color: #f25421;
+    color: #EC1D23;
     margin-right:10px;
 }
 .event-info p{
@@ -1013,24 +1013,24 @@ figure.video-bg-sec figcaption .btn-primary:active{
     font-size: 16px;
     padding-bottom: 15px;
     color: #333333;
-}  
+}
 ul.nav.nav-pills li button a{
-    background-color: #f25421;
+    background-color: #EC1D23;
     border: none;
     outline: none;
     cursor: pointer;
     padding: 25px 72px;
     transition: 0.5s;
-    border-top: 8px solid #f25421;
+    border-top: 8px solid #EC1D23;
     border-right: 1px solid #f5764d;
 }
 ul.nav.nav-pills li.active button a{
     background-color: #ffffff;
-    color: #f25421;
+    color: #EC1D23;
     border-right: 1px solid #ffffff;
 }
 ul.nav.nav-pills li.active button a span{
-    color: #f25421;
+    color: #EC1D23;
 }
 ul.nav.nav-pills li button a  {
     color: #ffffff;
@@ -1070,18 +1070,18 @@ a.tab-button {
     padding: 5px 36px;
     transition: 0.3s;
     font-size: 16px;
-    color: #f25421;
+    color: #EC1D23;
     font-weight: 700;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     margin-right: 20px;
 }
 ul.nav.nav-tabs li.active a.tab-button {
-    background-color: #f25421;
+    background-color: #EC1D23;
     color: #ffffff;
 }
 ul.nav.nav-pills li.active a.tab-button {
-    background-color: #f25421;
+    background-color: #EC1D23;
     color: #ffffff;
 }
 .tab-content-head h3 {
@@ -1200,7 +1200,7 @@ ul.nav.nav-pills li.active a.tab-button {
 
 .prices {
     padding: 135px 0;
-    background-color: #f25421
+    background-color: #EC1D23
 }
 
 .prices p.block-title {
@@ -1311,7 +1311,7 @@ ul.nav.nav-pills li.active a.tab-button {
 }
 
 .eventpackage p.block-title {
-    color: #f25421
+    color: #EC1D23
 }
 
 .eventpackage .event-priceing {
@@ -1356,7 +1356,7 @@ ul.nav.nav-pills li.active a.tab-button {
 }
 
 .eventpackage .event-priceing .best-offer {
-    background: #f25421;
+    background: #EC1D23;
     left: 0;
     right: 0;
     top: -38px;
@@ -1373,7 +1373,7 @@ ul.nav.nav-pills li.active a.tab-button {
 }
 
 .eventpackage .event-priceing .plan-details li i {
-    color: #f25421
+    color: #EC1D23
 }
 
 .eventpackage .event-priceing .btn-box {
@@ -1487,7 +1487,7 @@ ul.nav.nav-pills li.active a.tab-button {
 .sponsors-bg .owl-dots .owl-dot span:hover,
 .sponsors-bg .owl-dots .owl-dot span:focus,
 .sponsors-bg .owl-dots .owl-dot.active span{
-    background: #f25421;
+    background: #EC1D23;
 }
 
 .sponsors-bg .owl-dots .owl-dot:hover,
@@ -1515,7 +1515,7 @@ ul.nav.nav-pills li.active a.tab-button {
 }
 .previous-event-heading-bg .heading-col:before{
     content: "";
-    background: rgba(242,84,33,0.9);
+    background: #ED282F;
     position: absolute;
     left: 0;
     right: 0;
@@ -1577,7 +1577,7 @@ right: -50px;
 .next:hover, .prev:hover{
     font-size: 42px;
 }
-    
+
 @keyframes zoomIn {
   from {
     opacity: 0;
@@ -1590,7 +1590,7 @@ right: -50px;
 }
 
 .zoomIn {
-    animation-duration: 1s; 
+    animation-duration: 1s;
   animation-name: zoomIn;
 }
 @keyframes fadeInDown {
@@ -1606,7 +1606,7 @@ right: -50px;
 }
 
 .fadeInDown {
-   animation-duration: 1s;  
+   animation-duration: 1s;
   animation-name: fadeInDown;
 }
 .modalModal .close {
@@ -1696,7 +1696,7 @@ right: -50px;
     padding: 25px 30px 35px;
 }
 .news-slider .news-block .date{
-    background: #f25421;
+    background: #EC1D23;
     color: #fff;
     font-size: 14px;
     text-align: center;
@@ -1762,12 +1762,12 @@ right: -50px;
     font-size: 16px;
     font-weight: 700;
 }
-   
+
 /*-------------------------------------------------
    15. CTA
 -------------------------------------------------*/
 .newslatter-bg{
-    background-color: #f25421;
+    background-color: #EC1D23;
 }
 .newslatter{
     padding: 40px 0px;
@@ -1795,7 +1795,7 @@ right: -50px;
     left: 47px;
 }
 .newslatter-form form.active i{
-    color: #f25421;
+    color: #EC1D23;
 }
 
 .newslatter-form form input{
@@ -1851,7 +1851,7 @@ right: -50px;
     -webkit-backface-visibility: hidden;
     -moz-osx-font-smoothing: grayscale;
     text-transform: uppercase;
-    color: #f25421;
+    color: #EC1D23;
     font-weight: bold;
     transition: all 0.5s ease;
 }
@@ -1859,7 +1859,7 @@ right: -50px;
     padding: 50px 0px 30px;
 }
 .btn-register .view:hover{
-   padding: 20px 90px; 
+   padding: 20px 90px;
 }
 .location{
     position: relative;
@@ -1868,7 +1868,7 @@ right: -50px;
     position: absolute;
     top: 60px;
     left: 90px;
-    background-color: #f25421;
+    background-color: #EC1D23;
 }
 .location-info{
     color: #ffffff;
@@ -1902,7 +1902,7 @@ right: -50px;
 }
 .location-info h3 span i{
     background-color: white;
-    color:  #f25421;
+    color:  #EC1D23;
     position: relative;
 }
 .location-info h3 span i:after{
@@ -1919,7 +1919,7 @@ right: -50px;
 }
 .location-info p:hover span i {
     background-color: white;
-    color:  #f25421;
+    color:  #EC1D23;
     position: relative;
 }
 .location-info p:hover span i:after{
@@ -1961,7 +1961,7 @@ right: -50px;
 }
 
 .bottom-social a:hover {
-    color: #f25421;
+    color: #EC1D23;
     text-decoration: none;
 }
 
@@ -1979,7 +1979,7 @@ right: -50px;
 }
 
 .footer-top {
-    background: #f25421;
+    background: #EC1D23;
     padding: 30px 0;
 }
 .footer-right {
@@ -2011,17 +2011,17 @@ right: -50px;
     background: #e9e9e9;
     padding: 20px 0;
     text-align: center;
-    color: #f25421;
+    color: #EC1D23;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .copytight {
     font-size: 14px;
 }
 .footer-bottom a {
-    color: #f25421;
+    color: #EC1D23;
 }
 .more_link{
-    color: #f25420;
+    color: #ED282F;
     font-size: 14px;
     font-weight: 500;
     text-decoration: none !important;
@@ -2095,7 +2095,7 @@ right: -50px;
      figure.video-bg-sec figcaption img{
          top: inherit;
     }
-    
+
      .event-speakers h3{
          font-size: 25px;
          line-height: 40px;
@@ -2118,7 +2118,7 @@ right: -50px;
          padding: 20px 10px;
          margin: 15px 0;
     }
-   
+
      .event-time {
          padding: 0px 10px 15px;
     }
@@ -2197,7 +2197,7 @@ right: -50px;
 }
 #upcoming-event-sec .owl-carousel .owl-nav button.owl-next, #upcoming-event-sec .owl-carousel .owl-nav button.owl-prev {
     padding: 2px 8px !important;
-    background: #f25421;
+    background: #EC1D23;
     border-radius: 0px;
     color: #fff;
     opacity: 1;
@@ -2277,7 +2277,7 @@ right: -50px;
          font-size: 16px;
     }
      .speaker-box figcaption{
-         bottom: -73% 
+         bottom: -73%
     }
      .speaker-box:hover figcaption{
          padding: 21px 45px;
@@ -2651,7 +2651,7 @@ ul.nav.nav-tabs, ul.nav.nav-pills {
 }
 #upcoming-event-sec .owl-carousel .owl-nav button.owl-next, #upcoming-event-sec .owl-carousel .owl-nav button.owl-prev {
     padding: 2px 8px !important;
-    background: #f25421;
+    background: #EC1D23;
     border-radius: 0px;
     color: #fff;
     opacity: 1;
@@ -2670,7 +2670,7 @@ figure.video-bg-sec:hover > img {
 }
 #upcoming-event-sec .owl-carousel .owl-nav button.owl-next, #upcoming-event-sec .owl-carousel .owl-nav button.owl-prev {
     padding: 2px 8px !important;
-    background: #f25421;
+    background: #EC1D23;
     border-radius: 0px;
     color: #fff;
     opacity: 1;
@@ -3006,13 +3006,13 @@ a.tab-button {
          margin-bottom: 10px;
     }
      .speaker-box figcaption p{
-         padding: 15px 0px 
+         padding: 15px 0px
     }
      .location-info h3 span i:after, .location-info p:hover span i:after{
          right:7px;
     }
      .speaker-box:hover figcaption{
-         padding: 16px 45px 
+         padding: 16px 45px
     }
 }
  @media (min-width: 321px) and (max-width: 375px){
@@ -3077,4 +3077,3 @@ a.tab-button {
          font-size: 16px;
     }
 }
- 

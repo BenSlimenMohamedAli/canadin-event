@@ -25,14 +25,16 @@
             <ul class="view-btns">
               <li>
                 <a
-                  href="#our-speakers-sec"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLScQjWkFm0PpNP7WVNasNyUhuW5eHYM2OlrMEcJCU_vOa0x1QA/viewform?usp=pp_url&entry.1994969570=Option+n%C2%B0+1 "
                   class="view button--antiman button--inverted-alt mt-2"
+                  target="_blank"
                   >{{ data.button1 }}</a
                 >
               </li>
               <li>
                 <a
-                  href="#event-schedule-sec"
+                  href="/pdf-test.pdf"
+                  target="_blank"
                   class="view button--antiman button--inverted-alt mt-2"
                   >{{ data.button2 }}</a
                 >

@@ -1,7 +1,7 @@
 {
   "title": "Boite à outils",
   "subtitle": "Inclus ",
-  "description": "<p>Au delà de l’apprentissage obtenez gratuitement notre boite à outils complet estimé à $820 CAD. </p> <p>Bénéficier d’un accès premium à Canadin App pendant 12 Mois </p> <p>Obtenez le label Canadin Certified</p>",
+  "description": "<p>Au delà de l’apprentissage obtenez <span style='font-weight: bold; color: black; display: inline-block'>gratuitement</span> notre boite à outils complet estimé à 820 Dollar canadien. </p> <p>Bénéficier d’un accès premium à Canadin App pendant 12 Mois </p> <p>Obtenez le label <span style='font-weight: bold; color: gold; display: inline-block'>Canadin Certified</span></p>",
   "tools": [
     { "title": "Canadin App", "image": "http://via.placeholder.com/300" },
     {

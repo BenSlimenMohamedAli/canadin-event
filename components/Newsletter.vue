@@ -4,10 +4,10 @@
       <div class="row">
         <div class="col-lg-4 col-md-12 col-sm-12">
           <div class="newslatter">
-            <h4>
+            <h5 class="text-white">
               Les membres Canadin certifient ont 3 fois plus de chance pour être
               recruté.
-            </h4>
+            </h5>
           </div>
         </div>
 

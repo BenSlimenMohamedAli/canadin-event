@@ -74,34 +74,6 @@ export default Vue.extend({
       schedule,
       upcomingEvents
     }
-  },
-  data() {
-    return {
-      slideIndex: 1
-    }
-  },
-  mounted() {
-    this.showSlides(this.slideIndex)
-  },
-  methods: {
-    showSlides(n: number) {
-      let i
-      const slides = document.getElementsByClassName('mySlides') as any
-      const dots = document.getElementsByClassName('demo')
-      if (n > slides.length) {
-        this.slideIndex = 1
-      }
-      if (n < 1) {
-        this.slideIndex = slides.length
-      }
-      for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = 'none'
-      }
-      for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(' active', '')
-      }
-      slides[this.slideIndex - 1].style.display = 'block'
-    }
   }
 })
 </script>

@@ -1,7 +1,7 @@
  // page scroll----------------------------------------
 
 
-(function( $ ) { "use strict";   
+(function( $ ) { "use strict";
   $(function() {
       $('header a[href*="#"], .view-btns a[href*="#"]').click(function() {
             if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -15,7 +15,7 @@
               }
             }
         });
-  });   
+  });
 }(jQuery));
 
 
@@ -42,13 +42,13 @@ jQuery(document).ready(function($) {
     // Countdown ----------------------------------------
     $(function() {
         var austDay = new Date();
-        austDay = new Date(2022, 2, 4);
+        austDay = new Date(2022, 1, 4);
         $('#defaultCountdown').countdown({
             until: austDay
         });
         $('#year').text(austDay.getFullYear());
     });
-    
+
     // Header sticky------------------------------------------
     $(window).scroll(function() {
         if ($(window).scrollTop()) {
@@ -152,5 +152,5 @@ jQuery(document).ready(function($) {
       })
 
 
-       
+
 });

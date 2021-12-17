@@ -2,7 +2,7 @@
   "counts": [
     { "title": "Ateliers", "value": "5", "icon": "fa-lightbulb-o" },
     { "title": "Experts", "value": "6", "icon": "fa-user-o" },
-    { "title": "Semaine", "value": "4", "icon": "fa fa-calendar-o" },
+    { "title": "Weekend", "value": "4", "icon": "fa fa-calendar-o" },
     { "title": "Abonnement (Mois)", "value": "12", "icon": "fa-flag" }
   ]
 }

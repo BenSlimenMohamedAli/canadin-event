@@ -8,7 +8,7 @@
             <h3>{{ data.title }}</h3>
             <hr />
             <div class="info_height">
-              <p v-html="data.description"></p>
+              <div v-html="data.description"></div>
             </div>
           </div>
         </div>
