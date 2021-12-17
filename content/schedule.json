@@ -2,18 +2,25 @@
   "title": "Programme",
   "list": [
     {
+      "topTitle": "Atelier 1",
       "date": "04 Fév 2022",
       "title": "Bénéficier d’un accompagnement personnalisée"
     },
     {
+      "topTitle": "Atelier 2&3",
       "date": "11,12 Fév 2022",
       "title": "Démarche pour obtenir un Permis de travail au Québec/ Coaching Emploi"
     },
     {
+      "topTitle": "Atelier 4",
       "date": "18 Fév 2022",
       "title": "linkedin pour trouver un emploi au Québec"
     },
-    { "date": "25 Fév 2022", "title": "Installation & Intégration au Québec" }
+    {
+      "topTitle": "Atelier 5",
+      "date": "25 Fév 2022",
+      "title": "Installation & Intégration au Québec"
+    }
   ],
   "speakers1": [
     {
