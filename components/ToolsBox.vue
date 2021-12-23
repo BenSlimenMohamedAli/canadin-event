@@ -21,7 +21,7 @@
             <img :src="item.image" :alt="item.title" />
             <figcaption style="right: 0; left: 0">
               <h4>{{ item.title }}</h4>
-              <p><br /><br /><br /><br /><br /></p>
+              <p v-html="item.content"></p>
             </figcaption>
           </figure>
         </div>

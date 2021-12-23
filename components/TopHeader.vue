@@ -15,7 +15,7 @@
                 <li><a href="#our-speakers-sec">BOITE À OUTILS</a></li>
                 <li><a href="#event-schedule-sec">PROGRAMME</a></li>
                 <li><a href="#previous-event-sec">GALLERIES</a></li>
-                <li><a href="#elements">NOS EVENNEMENTS</a></li>
+                <li><a href="#elements">Nos tèmoignages</a></li>
               </ul>
             </nav>
           </div>

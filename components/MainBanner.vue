@@ -16,7 +16,7 @@
             <hr />
             <h2 class="text-white">{{ data.description }}</h2>
             <div id="defaultCountdown" class="mt-5"></div>
-            <ul class="social-icons">
+            <ul class="social-icons mb-5">
               <li>
                 <a :href="data.facebookLink" target="_blank"
                   ><i class="fa fa-facebook"></i
@@ -52,12 +52,14 @@
               action="thank-you.html"
               onsubmit="return validateForm()"
             >
+              <br />
               <div>
                 <h5
-                  class="text-white h5"
+                  class="text-white h4"
                   v-html="data.rightBox.description"
                 ></h5>
               </div>
+              <br />
               <div id="contact_submit" class="input-box mr mt-5">
                 <a
                   href="https://docs.google.com/forms/d/e/1FAIpQLScQjWkFm0PpNP7WVNasNyUhuW5eHYM2OlrMEcJCU_vOa0x1QA/viewform?usp=pp_url&entry.1994969570=Option+n%C2%B0+1 "

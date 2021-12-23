@@ -115,6 +115,9 @@ jQuery(document).ready(function($) {
             },
             600: {
                 items: 2
+            },
+            767: {
+              items: 3
             }
         }
     })

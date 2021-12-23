@@ -49,7 +49,7 @@
                 <li>
                   <a href="#previous-event-sec">GALLERIES</a><span>|</span>
                 </li>
-                <li><a href="#elements">NOS EVENNEMENTS</a></li>
+                <li><a href="#elements">Nos tèmoignages</a></li>
               </ul>
             </div>
           </div>

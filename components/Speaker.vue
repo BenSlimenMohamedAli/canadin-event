@@ -1,14 +1,20 @@
 <template>
   <section>
     <div class="event-schedule position-relative">
-      <div v-if="speaker.visibleIndex !== index" class="mask"></div>
       <figure>
-        <img :src="speaker.image" alt="speaker-image" />
+        <img
+          :src="
+            speaker.visibleIndex !== index
+              ? speaker.disabledImage
+              : speaker.image
+          "
+          alt="speaker-image"
+        />
         <figcaption>
           <ul class="event-icon">
             <li>
               <a target="_blank" :href="speaker.linkedin"
-                ><i class="fa fa-share-alt"></i
+                ><i class="fa fa-linkedin"></i
               ></a>
             </li>
           </ul>
@@ -44,16 +50,3 @@ export default Vue.extend({
   }
 })
 </script>
-
-<style scoped>
-.mask {
-  position: absolute;
-  top: 0;
-  right: O;
-  left: 0;
-  bottom: 0;
-  background: gray;
-  width: 100%;
-  z-index: 1;
-}
-</style>

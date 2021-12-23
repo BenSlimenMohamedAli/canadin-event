@@ -268,12 +268,12 @@ label.error{
     font-weight: 700;
     text-transform: uppercase;
     text-align: center;
-    border-bottom: 5px solid #a93b17;
+    border-bottom: 5px solid #EC1D23;
     transition: all 0.5s ease;
     height: auto;
 }
 .userform .submit-btn:hover{
-   background: #a93b17;
+   background: #EC1D23;
    border-bottom: 5px solid #EC1D23;
 }
 .userform strong{
@@ -754,8 +754,8 @@ figure.video-bg-sec figcaption .btn-primary:active{
     color: #ffffff;
     padding: 30px 10px;
     font-weight: 400;
-    border-top: 1px solid #f08a69;
-    border-bottom: 1px solid #f08a69;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
     margin: 25px 0;
 }
 .speaker-box figcaption ul li {
@@ -820,7 +820,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
     color: #fff;
 }
 .white-heading hr{
-    border-top: 4px solid #f3ae96;
+    border-top: 4px solid #ffffff;
 }
 .white-heading span{
     font-size: 18px;
@@ -1391,7 +1391,7 @@ ul.nav.nav-pills li.active a.tab-button {
 -------------------------------------------------*/
 
 #sponsors-sec .sponsors-heading-bg{
-    background:url(../images/_39.jpg) no-repeat;
+    background:url(../images/why-choos-us-bg.jpg) no-repeat;
     background-size: cover;
     display: block;
     min-height: 429px;
@@ -1830,7 +1830,7 @@ right: -50px;
 .Subscribe-btn button:hover{
     text-decoration: none;
     padding:16px 65px;
-        background-color: #a93b17;
+        background-color: #EC1D23;
 }
 /*-------------------------------------------------
     16. Map & Contact Info.

@@ -3,23 +3,23 @@
   "list": [
     {
       "topTitle": "Atelier 1",
-      "date": "04 Fév 2022",
+      "date": "04/02/2022",
       "title": "Bénéficier d’un accompagnement personnalisée"
     },
     {
       "topTitle": "Atelier 2&3",
-      "date": "11,12 Fév 2022",
+      "date": "11,12/02/2022",
       "title": "Démarche pour obtenir un Permis de travail au Québec/ Coaching Emploi"
     },
     {
-      "topTitle": "Atelier 4",
-      "date": "18 Fév 2022",
-      "title": "linkedin pour trouver un emploi au Québec"
+      "topTitle": "Atelier 4&5",
+      "date": "18,19/02/2022",
+      "title": "INSTALLATION & INTÉGRATION / Stratégies de recherche d'emploi"
     },
     {
-      "topTitle": "Atelier 5",
-      "date": "25 Fév 2022",
-      "title": "Installation & Intégration au Québec"
+      "topTitle": "Atelier 6",
+      "date": "25/02/2022",
+      "title": "Le LOGEMENT, CE QUE VOUS DEVEZ SAVOIR"
     }
   ],
   "speakers1": [
@@ -27,6 +27,7 @@
       "time": "19:00 PM-  21:00 PM",
       "name": "Aymen Jhidri",
       "image": "speakers/aymen.jpg",
+      "disabledImage": "speakers/aymen-d.jpg",
       "linkedin": "https://www.linkedin.com/in/aymen-jhidri/ ",
       "visibleIndex": 0
     },
@@ -34,6 +35,7 @@
       "time": "19:00 PM-  21:00 PM",
       "name": "Souad Belghith",
       "image": "speakers/souad.jpg",
+      "disabledImage": "speakers/souad-d.jpg",
       "linkedin": "https://www.linkedin.com/in/souad-belghith-8a2a6050/",
       "visibleIndex": 0
     }
@@ -43,6 +45,7 @@
       "time": "19:00 PM-  21:00 PM",
       "name": "Mohamed Talhaoui",
       "image": "speakers/mohamed.jpg",
+      "disabledImage": "speakers/mohamed-d.jpg",
       "linkedin": "https://www.linkedin.com/in/talhaouitransfertdentreprise/",
       "visibleIndex": 1
     },
@@ -50,6 +53,7 @@
       "time": "19:00 PM-  21:00 PM",
       "name": "Emily Sauvé",
       "image": "speakers/emelie.jpg",
+      "disabledImage": "speakers/emelie-d.jpg",
       "linkedin": "https://www.linkedin.com/in/emilie-sauv%C3%A9-23898727/",
       "visibleIndex": 1
     }
@@ -57,15 +61,17 @@
   "speakers3": [
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": "Amokrane Mariche",
-      "image": "speakers/amokrane.jpeg",
-      "linkedin": "https://www.linkedin.com/in/amomariche/",
+      "name": "Souleymane Gueye",
+      "image": "speakers/soulaymen.jpg",
+      "disabledImage": "speakers/soulaymen-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/souleymane-gueye-8ab98aa5/",
       "visibleIndex": -1
     },
     {
       "time": "19:00 PM-  21:00 PM",
       "name": "Vicky Lapointe",
       "image": "speakers/vicky.jpg",
+      "disabledImage": "speakers/vicky-d.jpg",
       "linkedin": "https://www.linkedin.com/in/vicky-lapointe-21469297/",
       "visibleIndex": 3
     }
@@ -76,14 +82,16 @@
       "time": "19:00 PM-  21:00 PM",
       "name": "Amokrane Mariche",
       "image": "speakers/amokrane.jpeg",
+      "disabledImage": "speakers/amokrane.jpeg",
       "linkedin": "https://www.linkedin.com/in/amomariche/",
       "visibleIndex": 2
     },
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": "Vicky Lapointe",
-      "image": "speakers/vicky.jpg",
-      "linkedin": "https://www.linkedin.com/in/vicky-lapointe-21469297/",
+      "name": "Kheira Araf",
+      "image": "speakers/kheira.jpg",
+      "disabledImage": "speakers/kheira-d.jpg",
+      "linkedin": "",
       "visibleIndex": -1
     }
   ]

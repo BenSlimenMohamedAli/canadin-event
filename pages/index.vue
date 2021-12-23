@@ -26,6 +26,8 @@
       <!-- Event Schedule End-->
       <div class="clearfix"></div>
 
+      <Sponsors />
+
       <!-- Previous Events sec -->
 
       <Gallery />
