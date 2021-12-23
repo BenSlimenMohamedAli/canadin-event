@@ -652,7 +652,7 @@ figure.video-bg-sec figcaption .btn-primary:active{
 }
 .button--antiman.button--inverted-alt::before {
     border-color: #ED282F;
-    background: #ff3e00;
+    background: #cf2929;
 }
 .button--antiman.button--inverted-alt::after {
     background: transparent;
@@ -1778,7 +1778,7 @@ right: -50px;
     color: #ffffff;
     font-weight: 400;
     font-family: 'Montserrat', sans-serif;
-    text-transform: capitalize;
+    text-transform: none;
 }
 .newslatter-form{
     padding: 40px 0px;

@@ -1,22 +1,22 @@
 {
   "title": "Boite à outils",
   "subtitle": "Inclus ",
-  "description": "<p>Au delà de l’apprentissage obtenez <span style='font-weight: bold; color: black; display: inline-block'>gratuitement</span> notre boite à outils complet estimé à 820 Dollar canadiens. </p> <p>Bénéficiez d’un accès <span style='font-weight: bold; display: inline-block; color: black'>premium</span> à Canadin App pendant 12 Mois </p> <p>Obtenez le label <span style='font-weight: bold; display: inline-block;color: black '>Canadin Certified</span></p>",
+  "description": "<p>Au delà de l’apprentissage obtenez <span style='font-weight: bold; color: black; display: inline-block'>gratuitement</span> notre boite à outils complet estimé à 820 Dollars canadiens. </p> <p>Bénéficiez d’un accès <span style='font-weight: bold; display: inline-block; color: black'>premium</span> à <span style='font-weight: bold; display: inline-block; color: black'>Canadin App</span> pendant 12 Mois. </p> <p>Obtenez le label <span style='font-weight: bold; display: inline-block;color: black '>Canadin Certified.</span></p>",
   "tools": [
     {
       "title": "Canadin App",
       "image": "300/Canadin app.jpg",
-      "content": "<br/>Bénéficiez d'un abonnement 12 mois Canadin-app Premium 30 min one to one<br/><br/>"
+      "content": "<br/>Bénéficiez d'un abonnement 12 mois Canadin-app Premium<br/><br/>"
     },
     {
       "title": "30 Min One to One ",
       "image": "300/30 min one to one.jpg",
-      "content": "<br/>Obtenez un CV personnalisé selon les normes canadiennes<br/><br/><br/>"
+      "content": "<br/>Obtenez un CV personnalisé selon les standards Québécois<br/><br/><br/>"
     },
     {
       "title": "E-book 1",
       "image": "300/Ebook 01- 20 questions.jpg",
-      "content": "<br/>20 Questions incontournable pour réussir votre entrevu<br/><br/><br/>"
+      "content": "<br/>20 Questions incontournable pour réussir votre entrevue<br/><br/><br/>"
     },
     {
       "title": "E-book 2",
@@ -26,12 +26,12 @@
     {
       "title": "E-book 3",
       "image": "300/Ebook 03  - 50 recruteurs.jpg",
-      "content": "<br/><br/>Top 20 des meilleurs recruteurs pour le #Québec<br/><br/><br/>"
+      "content": "<br/><br/>Top 30 des meilleurs recruteurs pour le #Québec<br/><br/>"
     },
     {
       "title": "Branding",
       "image": "300/postes.jpg",
-      "content": "<br/><br/>Bénéficiez d'une publication personnalisée sur LinkedIn<br/><br/>"
+      "content": "<br/><br/>Bénéficiez d'une publication personnalisée sur LinkedIn ( +200 K Followers)<br/>"
     },
     {
       "title": "Quiz",

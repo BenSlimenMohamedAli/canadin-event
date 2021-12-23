@@ -72,8 +72,8 @@
               </div>
               <strong
                 >Powered by C<span style="text-transform: lowercase"
-                  >anadin</span
-                >..T<span style="text-transform: lowercase">he</span> s<span
+                  >anadin </span
+                >.. T<span style="text-transform: lowercase">he</span> s<span
                   style="text-transform: lowercase"
                   >ecret</span
                 >

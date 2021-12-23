@@ -135,6 +135,6 @@ export default Vue.extend({
 }
 
 .news-block:hover {
-  border: 1px solid #ff3e00;
+  border: 1px solid #ec1d23;
 }
 </style>
