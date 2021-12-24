@@ -23,6 +23,7 @@ export default {
     ],
     script: [
       {src: "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"},
+      {src: "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"},
       {src: "https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"},
       {src: "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"},
       {src: "/js/modernizr.js"},
@@ -57,6 +58,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
+    '@nuxtjs/google-analytics'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -69,6 +71,11 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
+
+  googleAnalytics: {
+    // Options
+    id: 'UA-135647458-2'
+  },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},

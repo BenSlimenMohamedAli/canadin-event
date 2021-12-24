@@ -61,11 +61,11 @@
   "speakers3": [
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": "Souleymane Gueye",
-      "image": "speakers/soulaymen.jpg",
-      "disabledImage": "speakers/soulaymen-d.jpg",
-      "linkedin": "https://www.linkedin.com/in/souleymane-gueye-8ab98aa5/",
-      "visibleIndex": -1
+      "name": "Nisrin Al Yahya",
+      "image": "speakers/nisrin.jpg",
+      "disabledImage": "speakers/nisrin-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/nisrin-cari-st-laurent/",
+      "visibleIndex": 2
     },
     {
       "time": "19:00 PM-  21:00 PM",
@@ -73,18 +73,18 @@
       "image": "speakers/vicky.jpg",
       "disabledImage": "speakers/vicky-d.jpg",
       "linkedin": "https://www.linkedin.com/in/vicky-lapointe-21469297/",
-      "visibleIndex": 3
+      "visibleIndex": 2
     }
   ],
 
   "speakers4": [
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": "Amokrane Mariche",
-      "image": "speakers/amokrane.jpeg",
-      "disabledImage": "speakers/amokrane.jpeg",
-      "linkedin": "https://www.linkedin.com/in/amomariche/",
-      "visibleIndex": 2
+      "name": "Souleymane Gueye",
+      "image": "speakers/soulaymen.jpg",
+      "disabledImage": "speakers/soulaymen-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/souleymane-gueye-8ab98aa5/",
+      "visibleIndex": 3
     },
     {
       "time": "19:00 PM-  21:00 PM",
@@ -92,7 +92,7 @@
       "image": "speakers/kheira.jpg",
       "disabledImage": "speakers/kheira-d.jpg",
       "linkedin": "",
-      "visibleIndex": -1
+      "visibleIndex": 3
     }
   ]
 }

@@ -11,12 +11,7 @@
                 data-toggle="modal"
                 data-target="#exampleModalLong"
               >
-                <img
-                  src="images/video.png"
-                  alt="video"
-                  width="50"
-                  height="50"
-                />
+                <img src="images/video.png" alt="video" />
                 <p>{{ data.watchVideo }}</p>
               </button>
             </figcaption>
