@@ -1,7 +1,7 @@
 {
   "title": "Boite à outils",
   "subtitle": "Inclus ",
-  "description": "<p>Au delà de l’apprentissage obtenez <span style='font-weight: bold; color: black; display: inline-block'>gratuitement</span> notre boite à outils complet estimé à 820 Dollars canadiens. </p> <p>Bénéficiez d’un accès <span style='font-weight: bold; display: inline-block; color: black'>premium</span> à <span style='font-weight: bold; display: inline-block; color: black'>Canadin App</span> pendant 12 Mois. </p> <p>Obtenez le label <span style='font-weight: bold; display: inline-block;color: black '>Canadin Certified.</span></p>",
+  "description": "<p>Au-delà de l’apprentissage obtenez <span style='font-weight: bold; color: black; display: inline-block'>GRATUITEMENT</span> notre boîte à outils complète estimée à 820 dollars canadiens. </p> <p>Bénéficiez d’un accès <span style='font-weight: bold; display: inline-block; color: black'>PREMIUM</span> à <span style='font-weight: bold; display: inline-block; color: black'>CANADIN APP</span> pendant 12 mois. </p> <p>Obtenez le label <span style='font-weight: bold; display: inline-block;color: black '>Canadin Certified.</span></p>",
   "tools": [
     {
       "title": "Canadin App",
@@ -26,7 +26,7 @@
     {
       "title": "E-book 3",
       "image": "300/Ebook 03  - 50 recruteurs.jpg",
-      "content": "<br/><br/>Top 30 des meilleurs recruteurs pour le #Québec<br/><br/>"
+      "content": "<br/><br/>Top 30 des meilleurs recruteurs pour le Québec<br/><br/>"
     },
     {
       "title": "Branding",
@@ -41,7 +41,7 @@
     {
       "title": "Attestation",
       "image": "300/certificates.jpg",
-      "content": "<br/><br/>Obtenez le label Canadin Certified<br/><br/>"
+      "content": "<br/><br/>Obtenez le label <em style='text-transform: uppercase; font-weight: bold'>Canadin Certified</em><br/><br/>"
     }
   ]
 }

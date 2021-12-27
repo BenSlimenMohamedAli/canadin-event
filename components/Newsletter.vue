@@ -5,8 +5,11 @@
         <div class="col-lg-6 col-md-12 col-sm-12">
           <div class="newslatter">
             <h4 class="text-white">
-              Les Membres Canadin Certified ont 3 fois plus de chance pour être
-              recruté.
+              Les Membres
+              <span style="text-transform: uppercase; font-weight: bold"
+                >Canadin Certified</span
+              >
+              ont 3 fois plus de chance pour être recruté.
             </h4>
           </div>
         </div>
