@@ -33,7 +33,7 @@
               </li>
               <li>
                 <a
-                  href="/pdf-test.pdf"
+                  href="/Programme Master Class.pdf"
                   target="_blank"
                   class="view button--antiman button--inverted-alt mt-2"
                   >{{ data.button2 }}</a
