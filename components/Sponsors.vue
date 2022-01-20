@@ -33,7 +33,10 @@
                   <div class="item">
                     <div class="sponsors-col-inn block1">
                       <figure>
-                        <img src="logos/inside.png" alt="Sponsers logo" />
+                        <img
+                          src="logos/grj-immigration.png"
+                          alt="Sponsers logo"
+                        />
                       </figure>
                     </div>
 

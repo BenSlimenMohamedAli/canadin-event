@@ -14,7 +14,7 @@
     {
       "topTitle": "Atelier 4&5",
       "date": "18,19/02/2022",
-      "title": "INSTALLATION & INTÉGRATION / Stratégies de recherche d'emploi"
+      "title": "Retour d'expérience / Stratégies de recherche d'emploi"
     },
     {
       "topTitle": "Atelier 6",
@@ -51,7 +51,7 @@
     },
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": "Emily Sauvé",
+      "name": "Emilie sauvé",
       "image": "speakers/emelie.jpg",
       "disabledImage": "speakers/emelie-d.jpg",
       "linkedin": "https://www.linkedin.com/in/emilie-sauv%C3%A9-23898727/",
@@ -69,10 +69,10 @@
     },
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": "Vicky Lapointe",
-      "image": "speakers/vicky.jpg",
-      "disabledImage": "speakers/vicky-d.jpg",
-      "linkedin": "https://www.linkedin.com/in/vicky-lapointe-21469297/",
+      "name": "Kilani Ben Lakhdar ",
+      "image": "speakers/kilani.jpg",
+      "disabledImage": "speakers/kilani-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/kilani-ben-lakhdar-599b48163/",
       "visibleIndex": 2
     }
   ],
