@@ -42,7 +42,7 @@ jQuery(document).ready(function($) {
     // Countdown ----------------------------------------
     $(function() {
         var austDay = new Date();
-        austDay = new Date(2022, 1, 18);
+        austDay = new Date(2022, 4, 13);
         $('#defaultCountdown').countdown({
             until: austDay
         });
