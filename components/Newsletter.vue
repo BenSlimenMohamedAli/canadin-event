@@ -24,7 +24,7 @@
               target="_blank"
             >
               <button type="submit" class="btn btn-primary">
-                Réservez votre place
+                Pré-inscription
               </button>
             </a>
           </div>

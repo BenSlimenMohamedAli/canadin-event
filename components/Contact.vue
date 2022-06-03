@@ -13,7 +13,7 @@
         >
           <div class="Subscribe-btn">
             <a href="tel:56 923 877" type="submit" target="_blank">
-              <button type="submit" class="btn btn-primary">Local</button>
+              <button type="submit" class="btn btn-primary">56 923 877</button>
             </a>
           </div>
           <div class="Subscribe-btn">
