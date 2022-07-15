@@ -72,6 +72,13 @@
                       </figure>
                     </div>
                   </div>
+                   <div class="item">
+                    <div class="sponsors-col-inn block1">
+                      <figure>
+                        <img src="logos/dj.png" alt="Sponsers logo" />
+                      </figure>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

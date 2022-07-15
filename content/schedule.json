@@ -14,7 +14,7 @@
     {
       "topTitle": "Atelier 5&6",
       "date": "23,24/09/2022",
-      "title": "Retour d'expérience / Stratégies de recherche d'emploi"
+      "title": "Quelques pistes pour réussir votre entretien d'embauche"
     },
     {
       "topTitle": "Atelier 7&8",
@@ -56,11 +56,11 @@
     },
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": "Emilie sauvé",
-      "image": "speakers/emelie.jpg",
-      "disabledImage": "speakers/emelie-d.jpg",
-      "linkedin": "https://www.linkedin.com/in/emilie-sauv%C3%A9-23898727/",
-      "visibleIndex": 1
+      "name": "viviane Baribeau",
+      "image": "speakers/viviane.png",
+      "disabledImage": "speakers/viviane-d.png",
+      "linkedin": "https://www.linkedin.com/in/viviane-baribeau-crha-b83947129/",
+      "visibleIndex": 3
     }
   ],
   "speakers3": [
@@ -74,10 +74,10 @@
     },
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": " Amin Belkasmi",
-      "image": "speakers/amin.jpeg",
-      "disabledImage": "speakers/amin-d.jpeg",
-      "linkedin": "",
+      "name": "Achref Brahim",
+      "image": "speakers/achraf.jpg",
+      "disabledImage": "speakers/achraf-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/achraf-brahim-838b34a4/ ",
       "visibleIndex": 2
     }
   ],
@@ -104,18 +104,18 @@
   "speakers5": [
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": "viviane Baribeau",
-      "image": "speakers/viviane.png",
-      "disabledImage": "speakers/viviane-d.png",
-      "linkedin": "https://www.linkedin.com/in/viviane-baribeau-crha-b83947129/",
+      "name": "",
+      "image": "speakers/empty.jpg",
+      "disabledImage": "speakers/empty.jpg",
+      "linkedin": "",
       "visibleIndex": 3
     },
     {
       "time": "19:00 PM-  21:00 PM",
-      "name": "Achref Brahim",
-      "image": "speakers/achraf.jpeg",
-      "disabledImage": "speakers/achraf-d.jpeg",
-      "linkedin": "https://www.linkedin.com/in/achraf-brahim-838b34a4/ ",
+      "name": "",
+      "image": "speakers/empty.jpg",
+      "disabledImage": "speakers/empty.jpg",
+      "linkedin": "",
       "visibleIndex": 3
     }
   ],
