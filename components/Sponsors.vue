@@ -34,7 +34,7 @@
                     <div class="sponsors-col-inn block1">
                       <figure>
                         <img
-                          src="logos/grj-immigration.png"
+                          src="logos/JOOB Radar logo.png"
                           alt="Sponsers logo"
                         />
                       </figure>
@@ -56,6 +56,19 @@
                     <div class="sponsors-col-inn block2">
                       <figure>
                         <img src="logos/png-logos.png" alt="Sponsers logo" />
+                      </figure>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="sponsors-col-inn block1">
+                      <figure>
+                        <img src="logos/immigration.png" alt="Sponsers logo" />
+                      </figure>
+                    </div>
+
+                    <div class="sponsors-col-inn block2">
+                      <figure>
+                        <img src="logos/vibe.png" alt="Sponsers logo" />
                       </figure>
                     </div>
                   </div>

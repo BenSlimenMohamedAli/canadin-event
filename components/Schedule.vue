@@ -8,7 +8,7 @@
         </div>
       </div>
       <div id="exTab1">
-        <ul class="nav nav-pills">
+        <ul class="nav nav-pills" style="justify-content: center">
           <li
             v-for="(item, index) in data.list"
             :key="index"
@@ -54,6 +54,18 @@
                   </div>
                   <div class="schedule-content col-md-12 col-lg-6">
                     <div v-for="speaker in data.speakers4" :key="speaker.title">
+                      <Speaker :speaker="speaker" :index="index" />
+                    </div>
+                  </div>
+                </div>
+                <div class="schedule justify-content-center">
+                  <div class="schedule-content col-md-12 col-lg-6">
+                    <div v-for="speaker in data.speakers5" :key="speaker.title">
+                      <Speaker :speaker="speaker" :index="index" />
+                    </div>
+                  </div>
+                  <div class="schedule-content col-md-12 col-lg-6">
+                    <div v-for="speaker in data.speakers6" :key="speaker.title">
                       <Speaker :speaker="speaker" :index="index" />
                     </div>
                   </div>

@@ -2,23 +2,28 @@
   "title": "Programme",
   "list": [
     {
-      "topTitle": "Atelier 1",
-      "date": "13/05/2022",
+      "topTitle": "Atelier 1&2",
+      "date": "9,10/09/2022",
       "title": "Bénéficier d’un accompagnement personnalisée"
     },
     {
-      "topTitle": "Atelier 2&3",
-      "date": "20,27/05/2022",
+      "topTitle": "Atelier 3&4",
+      "date": "16,17/09/2022",
       "title": "Démarche pour obtenir un Permis de travail au Québec/ Coaching Emploi"
     },
     {
-      "topTitle": "Atelier 4&5",
-      "date": "03,10/06/2022",
+      "topTitle": "Atelier 5&6",
+      "date": "23,24/09/2022",
       "title": "Retour d'expérience / Stratégies de recherche d'emploi"
     },
     {
-      "topTitle": "Atelier 6",
-      "date": "17/06/2022",
+      "topTitle": "Atelier 7&8",
+      "date": "30/9,1/10 /2022",
+      "title": "Le LOGEMENT, CE QUE VOUS DEVEZ SAVOIR"
+    },
+    {
+      "topTitle": "Atelier 9",
+      "date": "8/10/2022",
       "title": "Le LOGEMENT, CE QUE VOUS DEVEZ SAVOIR"
     }
   ],
@@ -91,6 +96,43 @@
       "name": "Kheira Araf",
       "image": "speakers/kheira.jpg",
       "disabledImage": "speakers/kheira-d.jpg",
+      "linkedin": "",
+      "visibleIndex": 3
+    }
+  ],
+
+  "speakers5": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "viviane Baribeau",
+      "image": "speakers/viviane.png",
+      "disabledImage": "speakers/viviane-d.png",
+      "linkedin": "https://www.linkedin.com/in/viviane-baribeau-crha-b83947129/",
+      "visibleIndex": 3
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Achref Brahim",
+      "image": "speakers/achraf.jpeg",
+      "disabledImage": "speakers/achraf-d.jpeg",
+      "linkedin": "https://www.linkedin.com/in/achraf-brahim-838b34a4/ ",
+      "visibleIndex": 3
+    }
+  ],
+  "speakers6": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "",
+      "image": "speakers/empty.jpg",
+      "disabledImage": "speakers/empty.jpg",
+      "linkedin": "",
+      "visibleIndex": 3
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "",
+      "image": "speakers/empty.jpg",
+      "disabledImage": "speakers/empty.jpg",
       "linkedin": "",
       "visibleIndex": 3
     }
