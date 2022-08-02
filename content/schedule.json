@@ -4,27 +4,27 @@
     {
       "topTitle": "Atelier 1&2",
       "date": "9,10/09/2022",
-      "title": "Bénéficier d’un accompagnement personnalisée"
+      "title": "Simulation entretien, briefing et astuces sur CV / Démarche pour obtenir un permis de travail au Québec"
     },
     {
       "topTitle": "Atelier 3&4",
       "date": "16,17/09/2022",
-      "title": "Démarche pour obtenir un Permis de travail au Québec/ Coaching Emploi"
+      "title": "Quelques pistes pour réussir votre entretien d'embauche / Le logement, ce que vous devez savoir"
     },
     {
       "topTitle": "Atelier 5&6",
       "date": "23,24/09/2022",
-      "title": "Quelques pistes pour réussir votre entretien d'embauche"
+      "title": "Coaching Emploi / Retour d'experience"
     },
     {
       "topTitle": "Atelier 7&8",
       "date": "30/9,1/10 /2022",
-      "title": "Le LOGEMENT, CE QUE VOUS DEVEZ SAVOIR"
+      "title": ""
     },
     {
       "topTitle": "Atelier 9",
       "date": "8/10/2022",
-      "title": "Le LOGEMENT, CE QUE VOUS DEVEZ SAVOIR"
+      "title": ""
     }
   ],
   "speakers1": [
@@ -52,7 +52,7 @@
       "image": "speakers/mohamed.jpg",
       "disabledImage": "speakers/mohamed-d.jpg",
       "linkedin": "https://www.linkedin.com/in/talhaouitransfertdentreprise/",
-      "visibleIndex": 1
+      "visibleIndex": 0
     },
     {
       "time": "19:00 PM-  21:00 PM",
@@ -60,7 +60,7 @@
       "image": "speakers/viviane.png",
       "disabledImage": "speakers/viviane-d.png",
       "linkedin": "https://www.linkedin.com/in/viviane-baribeau-crha-b83947129/",
-      "visibleIndex": 3
+      "visibleIndex": 2
     }
   ],
   "speakers3": [
@@ -70,7 +70,7 @@
       "image": "speakers/nisrin.jpg",
       "disabledImage": "speakers/nisrin-d.jpg",
       "linkedin": "https://www.linkedin.com/in/nisrin-cari-st-laurent/",
-      "visibleIndex": 2
+      "visibleIndex": 1
     },
     {
       "time": "19:00 PM-  21:00 PM",
@@ -89,7 +89,7 @@
       "image": "speakers/soulaymen.jpg",
       "disabledImage": "speakers/soulaymen-d.jpg",
       "linkedin": "https://www.linkedin.com/in/souleymane-gueye-8ab98aa5/",
-      "visibleIndex": 3
+      "visibleIndex": 1
     },
     {
       "time": "19:00 PM-  21:00 PM",
@@ -97,7 +97,7 @@
       "image": "speakers/kheira.jpg",
       "disabledImage": "speakers/kheira-d.jpg",
       "linkedin": "",
-      "visibleIndex": 3
+      "visibleIndex": 1
     }
   ],
 

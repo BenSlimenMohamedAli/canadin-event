@@ -78,6 +78,11 @@
                         <img src="logos/dj.png" alt="Sponsers logo" />
                       </figure>
                     </div>
+                    <div class="sponsors-col-inn block1">
+                      <figure>
+                        <img src="logos/Insight.png" alt="Sponsers logo" />
+                      </figure>
+                    </div>
                   </div>
                 </div>
               </div>
