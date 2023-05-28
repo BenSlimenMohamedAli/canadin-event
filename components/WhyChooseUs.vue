@@ -4,6 +4,7 @@
       <div class="container">
         <div class="row text-center">
           <div class="col-lg-12 col-md-12 col-sm-12">
+            <span>{{data.subtitle}}</span>
             <h2>{{ data.title }}</h2>
             <hr />
           </div>

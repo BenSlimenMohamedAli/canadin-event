@@ -1642,7 +1642,7 @@ right: -50px;
     position: relative;
     transition: 0.5s;
 }
-.gallery-img:hover:before{
+/*.gallery-img:hover:before{
     content: '';
     position: absolute;
     background: url(../images/zoom-arrow.png) no-repeat;
@@ -1666,7 +1666,7 @@ right: -50px;
     bottom: 0;
     z-index: 1;
     background-color: rgba(0, 0, 0, 0.7);
-}
+} */
 .hover-shadow{
     position: relative;
     transition: 0.3s;

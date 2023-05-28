@@ -26,6 +26,10 @@
       <!-- Event Schedule End-->
       <div class="clearfix"></div>
 
+      <Reviews :data="reviews" />
+
+      <Services :data="services" />
+
       <Sponsors />
 
       <!-- Previous Events sec -->
@@ -44,6 +48,8 @@
       <!-- END Subscribe newslatter -->
 
       <Contact />
+
+      <Location />
 
       <Footer />
     </main>
@@ -66,6 +72,8 @@ export default Vue.extend({
     const whyChooseUs = await $content('why-choose-us').fetch()
     const schedule = await $content('schedule').fetch()
     const upcomingEvents = await $content('upcoming-events').fetch()
+    const reviews = await $content('reviews').fetch()
+    const services = await $content('services').fetch()
 
     return {
       mainBanner,
@@ -74,8 +82,10 @@ export default Vue.extend({
       toolsBox,
       whyChooseUs,
       schedule,
-      upcomingEvents
+      upcomingEvents,
+      reviews,
+      services,
     }
-  }
+  },
 })
 </script>

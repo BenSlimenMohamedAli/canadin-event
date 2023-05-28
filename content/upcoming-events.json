@@ -1,20 +1,20 @@
 {
-  "title": "NOS TÉMOIGNAGES",
+  "title": "Nos prochaines dates",
   "list": [
     {
-      "link": "https://www.youtube.com/embed/xNrddBtOO-w",
-      "title": " Atelier 02",
-      "date": "02 Mars 2022"
+      "link": "maurice/events/1.png",
+      "title": " Recrutement International Côte d’Ivoire & Cameroun",
+      "date": "08 septembre 2023"
     },
     {
-      "link": "https://www.youtube.com/embed/lC23KjU8hRg",
-      "title": "Atelier 05",
-      "date": "07 Mars 2022)"
+      "link": "maurice/events/2.png",
+      "title": "Recrutement International Maroc & Tunisie",
+      "date": "12 octobre 2023"
     },
     {
-      "link": "https://www.youtube.com/embed/cCceB0XUxYw",
-      "title": "Canadin-APP ",
-      "date": "18 May 2022"
+      "link": "maurice/events/3.png",
+      "title": "Recrutement International Madagascar",
+      "date": "18 novembre 2023"
     }
   ]
 }

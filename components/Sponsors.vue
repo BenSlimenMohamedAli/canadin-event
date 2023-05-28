@@ -4,7 +4,8 @@
       <div class="container">
         <div class="row text-center">
           <div class="col-lg-12 col-md-12 col-sm-12">
-            <h2>Nos partenaires</h2>
+            <span>Ils nous ont fait confiance</span>
+            <h2>NOS RÉFERENCES</h2>
             <hr />
           </div>
         </div>
@@ -20,67 +21,88 @@
                   <div class="item">
                     <div class="sponsors-col-inn block1">
                       <figure>
-                        <img src="logos/Canadin.png" alt="Sponsers logo" />
+                        <img src="maurice/logo/1.png" alt="Sponsers logo" />
                       </figure>
                     </div>
 
                     <div class="sponsors-col-inn block2">
                       <figure>
-                        <img src="logos/academy.png" alt="Sponsers logo" />
+                        <img src="maurice/logo/2.png" alt="Sponsers logo" />
                       </figure>
                     </div>
                   </div>
                   <div class="item">
                     <div class="sponsors-col-inn block1">
                       <figure>
-                        <img
-                          src="logos/JOOB Radar logo.png"
-                          alt="Sponsers logo"
-                        />
+                        <img src="maurice/logo/3.png" alt="Sponsers logo" />
                       </figure>
                     </div>
 
                     <div class="sponsors-col-inn block2">
                       <figure>
-                        <img src="logos/logo-cari.png" alt="Sponsers logo" />
+                        <img src="maurice/logo/4.png" alt="Sponsers logo" />
                       </figure>
                     </div>
                   </div>
                   <div class="item">
                     <div class="sponsors-col-inn block1">
                       <figure>
-                        <img src="logos/logo-light.png" alt="Sponsers logo" />
+                        <img src="maurice/logo/5.png" alt="Sponsers logo" />
                       </figure>
                     </div>
 
                     <div class="sponsors-col-inn block2">
                       <figure>
-                        <img src="logos/png-logos.png" alt="Sponsers logo" />
+                        <img src="maurice/logo/6.png" alt="Sponsers logo" />
                       </figure>
                     </div>
                   </div>
                   <div class="item">
                     <div class="sponsors-col-inn block1">
                       <figure>
-                        <img src="logos/immigration.png" alt="Sponsers logo" />
+                        <img src="maurice/logo/7.png" alt="Sponsers logo" />
                       </figure>
                     </div>
 
                     <div class="sponsors-col-inn block2">
                       <figure>
-                        <img src="logos/vibe.png" alt="Sponsers logo" />
+                        <img src="maurice/logo/8.png" alt="Sponsers logo" />
                       </figure>
                     </div>
                   </div>
                    <div class="item">
                     <div class="sponsors-col-inn block1">
                       <figure>
-                        <img src="logos/dj.png" alt="Sponsers logo" />
+                        <img src="maurice/logo/9.png" alt="Sponsers logo" />
                       </figure>
                     </div>
                     <div class="sponsors-col-inn block1">
                       <figure>
-                        <img src="logos/Insight.png" alt="Sponsers logo" />
+                        <img src="maurice/logo/10.png" alt="Sponsers logo" />
+                      </figure>
+                    </div>
+                  </div>
+                   <div class="item">
+                    <div class="sponsors-col-inn block1">
+                      <figure>
+                        <img src="maurice/logo/11.png" alt="Sponsers logo" />
+                      </figure>
+                    </div>
+                    <div class="sponsors-col-inn block1">
+                      <figure>
+                        <img src="maurice/logo/12.png" alt="Sponsers logo" />
+                      </figure>
+                    </div>
+                  </div>
+                   <div class="item">
+                    <div class="sponsors-col-inn block1">
+                      <figure>
+                        <img src="maurice/logo/13.png" alt="Sponsers logo" />
+                      </figure>
+                    </div>
+                    <div class="sponsors-col-inn block1">
+                      <figure>
+                        <img src="maurice/logo/14.png" alt="Sponsers logo" />
                       </figure>
                     </div>
                   </div>

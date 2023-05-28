@@ -15,7 +15,7 @@
             :class="{ active: index === 0 }"
           >
             <button>
-              <a :href="'#' + index + 'a'" data-toggle="tab">
+              <a style="padding-right:30px !important; padding-left:30px !important" :href="'#' + index + 'a'" data-toggle="tab">
                 {{ item.topTitle }}
                 <span>{{ item.date }}</span>
               </a>
@@ -34,7 +34,7 @@
             <h4 class="text-center my-3">{{ item.title }}</h4>
             <div class="tab-content">
               <div class="tab-pane active">
-                <div class="schedule">
+                <div v-if="index == 0" class="schedule">
                   <div class="schedule-content col-md-12 col-lg-6">
                     <div v-for="speaker in data.speakers1" :key="speaker.title">
                       <Speaker :speaker="speaker" :index="index" />
@@ -46,7 +46,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="schedule justify-content-center">
+                <div v-if="index == 1" class="schedule justify-content-center">
                   <div class="schedule-content col-md-12 col-lg-6">
                     <div v-for="speaker in data.speakers3" :key="speaker.title">
                       <Speaker :speaker="speaker" :index="index" />
@@ -58,7 +58,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="schedule justify-content-center">
+                <div v-if="index == 2" class="schedule justify-content-center">
                   <div class="schedule-content col-md-12 col-lg-6">
                     <div v-for="speaker in data.speakers5" :key="speaker.title">
                       <Speaker :speaker="speaker" :index="index" />
@@ -66,6 +66,18 @@
                   </div>
                   <div class="schedule-content col-md-12 col-lg-6">
                     <div v-for="speaker in data.speakers6" :key="speaker.title">
+                      <Speaker :speaker="speaker" :index="index" />
+                    </div>
+                  </div>
+                </div>
+                <div v-if="index == 3" class="schedule justify-content-center">
+                  <div class="schedule-content col-md-12 col-lg-6">
+                    <div v-for="speaker in data.speakers7" :key="speaker.title">
+                      <Speaker :speaker="speaker" :index="index" />
+                    </div>
+                  </div>
+                  <div class="schedule-content col-md-12 col-lg-6">
+                    <div v-for="speaker in data.speakers8" :key="speaker.title">
                       <Speaker :speaker="speaker" :index="index" />
                     </div>
                   </div>

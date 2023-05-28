@@ -4,7 +4,8 @@
           <div class="container">
             <div class="row text-center">
               <div class="col-lg-12 col-md-12 col-sm-12 heading-col">
-                <h2>Galleries</h2>
+                <span>Lieu de l’évènement</span>
+                <h2>Explorez l’île Maurice et joignez l’utile à l’agréable!</h2>
                 <hr />
               </div>
             </div>
@@ -13,48 +14,57 @@
         <div class="previous-event-gallery">
           <div class="gallery">
             <div class="gallery-img">
-              <img src="images/gallery1/1.jpg" />
+              <img src="maurice/gallery/1.png" />
             </div>
             <div class="gallery-img">
-              <img src="images/gallery1/2.jpg" />
+              <img src="maurice/gallery/2.png" />
             </div>
+
+
             <div class="gallery-img">
-              <img src="images/gallery1/3.jpg" />
+              <img src="maurice/gallery/4.png" />
             </div>
 
             <div class="gallery-img">
-              <img src="images/gallery1/4.jpg" />
+              <img src="maurice/gallery/7.png" />
             </div>
+
+
+
+          </div>
+
+          <div class="gallery">
+
+
+            <div class="gallery-img">
+              <img src="maurice/gallery/8.png" />
+            </div>
+             <div class="gallery-img">
+              <img src="maurice/gallery/11.png" />
+            </div>
+
+            <div class="gallery-img">
+              <img style="height:100%" src="maurice/gallery/6.png" />
+            </div>
+
+
+
+
           </div>
 
           <div class="gallery">
             <div class="gallery-img">
-              <img src="images/gallery1/5.jpg" />
+              <img style="height:100%"  src="maurice/gallery/9.png" />
             </div>
             <div class="gallery-img">
-              <img src="images/gallery1/6.jpg" />
+              <img style="height:100%"  src="maurice/gallery/10.png" />
             </div>
-            <div class="gallery-img">
-              <img src="images/gallery1/7.jpg" />
-            </div>
-            <div class="gallery-img">
-              <img src="images/gallery1/8.jpg" />
-            </div>
-          </div>
 
-          <div class="gallery">
             <div class="gallery-img">
-              <img src="images/gallery1/9.jpg" />
+              <img src="maurice/gallery/12.png" />
             </div>
-            <div class="gallery-img">
-              <img src="images/gallery1/10.jpg" />
-            </div>
-            <div class="gallery-img">
-              <img src="images/gallery1/11.jpg" />
-            </div>
-            <div class="gallery-img">
-              <img src="images/gallery1/12.jpg" />
-            </div>
+
+
           </div>
         </div>
 
@@ -62,46 +72,46 @@
           <span class="close cursor" onclick="closeModalModal()">&times</span>
           <div class="modalModal-content fadeInDown">
             <div class="mySlides">
-              <img src="images/gallery1/1.jpg" class="zoomIn" />
+              <img src="maurice/gallery/1.png" class="zoomIn" />
             </div>
 
             <div class="mySlides">
-              <img src="images/gallery1/2.jpg" class="zoomIn" />
+              <img src="maurice/gallery/2.png" class="zoomIn" />
             </div>
 
             <div class="mySlides">
-              <img src="images/gallery1/3.jpg" class="zoomIn" />
+              <img src="maurice/gallery/3.png" class="zoomIn" />
             </div>
 
             <div class="mySlides">
-              <img src="images/gallery1/4.jpg" class="zoomIn" />
+              <img src="maurice/gallery/4.png" class="zoomIn" />
             </div>
             <div class="mySlides">
-              <img src="images/gallery1/5.jpg" class="zoomIn" />
-            </div>
-
-            <div class="mySlides">
-              <img src="images/gallery1/6.jpg" class="zoomIn" />
+              <img src="maurice/gallery/5.png" class="zoomIn" />
             </div>
 
             <div class="mySlides">
-              <img src="images/gallery1/7.jpg" class="zoomIn" />
+              <img src="maurice/gallery/6.png" class="zoomIn" />
             </div>
 
             <div class="mySlides">
-              <img src="images/gallery1/8.jpg" class="zoomIn" />
+              <img src="maurice/gallery/7.png" class="zoomIn" />
+            </div>
+
+            <div class="mySlides">
+              <img src="maurice/gallery/8.png" class="zoomIn" />
             </div>
             <div class="mySlides">
-              <img src="images/gallery1/9.jpg" class="zoomIn" />
+              <img src="maurice/gallery/9.png" class="zoomIn" />
             </div>
             <div class="mySlides">
-              <img src="images/gallery1/10.jpg" class="zoomIn" />
+              <img src="maurice/gallery/10.png" class="zoomIn" />
             </div>
             <div class="mySlides">
-              <img src="images/gallery1/11.jpg" class="zoomIn" />
+              <img src="maurice/gallery/11.png" class="zoomIn" />
             </div>
             <div class="mySlides">
-              <img src="images/gallery1/12.jpg" class="zoomIn" />
+              <img src="maurice/gallery/12.png" class="zoomIn" />
             </div>
             <a class="prev" onclick="plusSlides(-1)">&#10094</a>
             <a class="next" onclick="plusSlides(1)">&#10095</a>

@@ -1,15 +1,14 @@
 {
-  "eventDate": "Septembre 09, 2022",
-  "eventPlace": "En Ligne",
-  "title": "Master Class",
-  "description": "5 étapes pour décrocher un emploi au Québec",
-  "facebookLink": "https://www.facebook.com/GRJ-Academy-123337455725916/",
-  "linkedinLink": "https://www.linkedin.com/company/grj-academy/",
-  "youtubeLink": "https://www.youtube.com/channel/UCqyNHHKltIRPdrCkOjyQYig",
+  "eventDate": "Juillet 17, 2023",
+  "eventPlace": "L’île Maurice",
+  "title": "Mission talents Île Maurice",
+  "description": "Vous êtes à la recherche de votre perle rare ou du profil idéal, pour votre entreprise ? Nous vous invitons à participer à notre évènement « Mission talents île Maurice » pour vous faciliter la tâche.",
+  "facebookLink": "https://www.facebook.com/ataaccestalentsafrique/",
+  "linkedinLink": "https://www.linkedin.com/company/acces-talents-international/ ",
+  "youtubeLink": "https://www.youtube.com/channel/UCkE0c9xM_v-JSp9Qc3zy9Qg",
   "instagramLink": "https://www.instagram.com/grj_academy/",
   "rightBox": {
-    "title": "Êtes-vous à la recherche d’un emploi au Québec?",
-    "description": "<h5>Ne laissez aucune info vous échappe</h5> <br/> <h5>Tout commence par un accompagnement spécifique</h5><br/> <h5>Apprenez directement des meilleurs experts</h5>",
-    "button": "Pré-inscription"
+    "description": "Dans un cadre paradisiaque, du 17 au 22 juillet 2023, nous vous permettrons de dénicher le talent adéquat qui répondra à votre besoin de recrutement. <br/> <br/> Venez embaucher vos prochains collaborateurs et voyagez gratuitement avec nous !*",
+    "button": "Inscrivez-vous"
   }
 }

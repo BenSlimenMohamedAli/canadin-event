@@ -2,138 +2,124 @@
   "title": "Programme",
   "list": [
     {
-      "topTitle": "Atelier 1&2",
-      "date": "9,10/09/2022",
-      "title": "Simulation entretien, briefing et astuces sur CV / Démarche pour obtenir un permis de travail au Québec"
-    },
-    {
-      "topTitle": "Atelier 3&4",
-      "date": "16,17/09/2022",
-      "title": "Quelques pistes pour réussir votre entretien d'embauche / Le logement, ce que vous devez savoir"
-    },
-    {
-      "topTitle": "Atelier 5&6",
-      "date": "23,24/09/2022",
-      "title": "Coaching Emploi / Retour d'experience"
-    },
-    {
-      "topTitle": "Atelier 7&8",
-      "date": "30/9,1/10 /2022",
+      "topTitle": "Accueil et installation",
+      "date": "17/09/2023",
       "title": ""
     },
     {
-      "topTitle": "Atelier 9",
-      "date": "8/10/2022",
+      "topTitle": "Entrevues individuelles",
+      "date": "18 & 19 /09/2023",
+      "title": ""
+    },
+    {
+      "topTitle": "Tests de recrutement",
+      "date": "20/09/2023",
+      "title": ""
+    },
+    {
+      "topTitle": "Finalisation",
+      "date": "21/09/2023",
       "title": ""
     }
   ],
   "speakers1": [
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "Aymen Jhidri",
-      "image": "speakers/aymen.jpg",
-      "disabledImage": "speakers/aymen-d.jpg",
-      "linkedin": "https://www.linkedin.com/in/aymen-jhidri/ ",
+      "name": "Accueil aéroport",
+      "image": "maurice/program/installation/1.png",
       "visibleIndex": 0
     },
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "Souad Belghith",
-      "image": "speakers/souad.jpg",
-      "disabledImage": "speakers/souad-d.jpg",
-      "linkedin": "https://www.linkedin.com/in/souad-belghith-8a2a6050/",
+      "name": "Transfert hôtel",
+      "image": "maurice/program/installation/2.png",
       "visibleIndex": 0
     }
   ],
   "speakers2": [
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "Mohamed Talhaoui",
-      "image": "speakers/mohamed.jpg",
-      "disabledImage": "speakers/mohamed-d.jpg",
-      "linkedin": "https://www.linkedin.com/in/talhaouitransfertdentreprise/",
+      "name": "Installation",
+      "image": "maurice/program/installation/3.png",
       "visibleIndex": 0
     },
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "viviane Baribeau",
-      "image": "speakers/viviane.png",
-      "disabledImage": "speakers/viviane-d.png",
-      "linkedin": "https://www.linkedin.com/in/viviane-baribeau-crha-b83947129/",
-      "visibleIndex": 2
+      "name": "Mot de bienvenue",
+      "image": "maurice/program/installation/4.png",
+      "visibleIndex": 0
     }
   ],
   "speakers3": [
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "Nisrin Al Yahya",
-      "image": "speakers/nisrin.jpg",
-      "disabledImage": "speakers/nisrin-d.jpg",
-      "linkedin": "https://www.linkedin.com/in/nisrin-cari-st-laurent/",
+      "name": "Entretiens one-to-one",
+      "image": "maurice/program/entrevues/1.png",
       "visibleIndex": 1
     },
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "Achref Brahim",
-      "image": "speakers/achraf.jpg",
-      "disabledImage": "speakers/achraf-d.jpg",
-      "linkedin": "https://www.linkedin.com/in/achraf-brahim-838b34a4/ ",
-      "visibleIndex": 2
+      "name": "Présentation des recruteurs",
+      "image": "maurice/program/entrevues/2.png",
+      "visibleIndex": 1
     }
   ],
 
   "speakers4": [
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "Souleymane Gueye",
-      "image": "speakers/soulaymen.jpg",
-      "disabledImage": "speakers/soulaymen-d.jpg",
-      "linkedin": "https://www.linkedin.com/in/souleymane-gueye-8ab98aa5/",
+      "name": "Pauses et dégustation locale",
+      "image": "maurice/program/entrevues/3.png",
       "visibleIndex": 1
     },
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "Kheira Araf",
-      "image": "speakers/kheira.jpg",
-      "disabledImage": "speakers/kheira-d.jpg",
-      "linkedin": "",
+      "name": "Echanges et immersion culturelle",
+      "image": "maurice/program/entrevues/4.png",
       "visibleIndex": 1
     }
   ],
 
   "speakers5": [
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "",
-      "image": "speakers/empty.jpg",
-      "disabledImage": "speakers/empty.jpg",
-      "linkedin": "",
+      "name": "Tests pratiques et psychotechniques",
+      "image": "maurice/program/tests/1.png",
+      "visibleIndex": 2
+    },
+    {
+      "name": "Soudure",
+      "image": "maurice/program/tests/2.png",
+      "visibleIndex": 2
+    }
+  ],
+
+  "speakers6": [
+    {
+      "name": "Usinage",
+      "image": "maurice/program/tests/3.png",
+      "visibleIndex": 2
+    },
+    {
+      "name": "Cuisine",
+      "image": "maurice/program/tests/4.png",
+      "visibleIndex": 2
+    }
+  ],
+
+  "speakers7": [
+    {
+      "name": "Découverte de l’île ",
+      "image": "maurice/program/finalization/1.png",
       "visibleIndex": 3
     },
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "",
-      "image": "speakers/empty.jpg",
-      "disabledImage": "speakers/empty.jpg",
-      "linkedin": "",
+      "name": "Excursions",
+      "image": "maurice/program/finalization/2.png",
       "visibleIndex": 3
     }
   ],
-  "speakers6": [
+
+  "speakers8": [
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "",
-      "image": "speakers/empty.jpg",
-      "disabledImage": "speakers/empty.jpg",
-      "linkedin": "",
+      "name": "Dégustation de la gastronomie locale",
+      "image": "maurice/program/finalization/3.png",
       "visibleIndex": 3
     },
     {
-      "time": "19:00 PM-  21:00 PM",
-      "name": "",
-      "image": "speakers/empty.jpg",
-      "disabledImage": "speakers/empty.jpg",
-      "linkedin": "",
+      "name": "Signature des contrats (en soirée)",
+      "image": "maurice/program/finalization/4.png",
       "visibleIndex": 3
     }
   ]

@@ -18,12 +18,18 @@
           </figure>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="video-info pt-3">
-            <h3>{{ data.title }}</h3>
+          <div class="video-info pt-3" >
+            <h3 style="font-size: 25px">{{ data.title }}</h3>
             <hr />
-            <p style="font-size: 20px !important" v-html="data.content"></p>
+            <p style="font-size: 12px !important" v-html="data.content"></p>
+            <ul style="font-size: 12px !important" >
+              <li>Recrutement</li>
+              <li>Immigration</li>
+              <li>Intégration</li>
+            </ul>
+
             <ul class="view-btns">
-              <li>
+              <!-- <li>
                 <a
                   href="https://docs.google.com/forms/d/e/1FAIpQLScQjWkFm0PpNP7WVNasNyUhuW5eHYM2OlrMEcJCU_vOa0x1QA/viewform?usp=pp_url&entry.1994969570=Option+n%C2%B0+1 "
                   class="view button--antiman button--inverted-alt mt-2"
@@ -37,7 +43,7 @@
                   class="view button--antiman button--inverted-alt mt-2"
                   >{{ data.button2 }}</a
                 >
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>

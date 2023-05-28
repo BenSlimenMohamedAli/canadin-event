@@ -1,0 +1,50 @@
+{
+  "title": "Profitez de nos services !",
+  "subtitle": "Profitez de nos services !",
+  "list": [
+    {
+      "title": "Recrutement",
+      "list": [
+        {
+          "title": "Tri CV"
+        },
+        { "title": "Entretiens individuels" },
+        { "title": "Vérification des références professionnelles" },
+        { "title": "Coaching des candidats" }
+      ]
+    },
+    {
+      "title": "Immigration",
+      "list": [
+        {
+          "title": "Consultation"
+        },
+        { "title": "EMT" },
+        { "title": "CAQ" },
+        { "title": "Permis de travail" }
+      ]
+    },
+    {
+      "title": "Intégration",
+      "list": [
+        {
+          "title": "Pick-up aéroport"
+        },
+        { "title": "Ouverture de compte bancaire" },
+        { "title": "Démarches administratives" },
+        { "title": "Diagnostic individuel et soutien" }
+      ]
+    },
+    {
+      "title": "Logistique",
+      "list": [
+        {
+          "title": "Billet d’avion"
+        },
+        { "title": "Hébergement en LPD" },
+        { "title": "Transferts & navettes" },
+        { "title": "Salle et ateliers équipés" }
+      ]
+    }
+  ]
+}

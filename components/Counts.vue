@@ -9,7 +9,7 @@
         >
           <div class="milestone-counter">
             <i class="fa" :class="item.icon"></i>
-            <h2 class="stat-count highlight">{{ item.value }}</h2>
+            <h2 class="highlight">{{ item.value }}</h2>
             <span>{{ item.title }}</span>
           </div>
         </div>

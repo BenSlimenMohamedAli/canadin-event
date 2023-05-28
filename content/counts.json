@@ -1,8 +1,8 @@
 {
   "counts": [
-    { "title": "Ateliers", "value": "9", "icon": "fa-lightbulb-o" },
-    { "title": "Experts", "value": "11", "icon": "fa-user-o" },
-    { "title": "semaines", "value": "6", "icon": "fa fa-calendar-o" },
-    { "title": "Abonnement (Mois)", "value": "12", "icon": "fa-flag" }
+    { "title": "Nos missions réussies", "value": "12", "icon": "fa-lightbulb-o" },
+    { "title": "Nos candidats embauchés", "value": "384", "icon": "fa-user-o" },
+    { "title": "Nos clients satisfaits", "value": "62", "icon": "fa fa-calendar-o" },
+    { "title": "Profils qualifiés", "value": "8000", "icon": "fa-flag" }
   ]
 }

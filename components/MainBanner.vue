@@ -14,7 +14,7 @@
             </ul>
             <h1>{{ data.title }}</h1>
             <hr />
-            <h2 class="text-white">{{ data.description }}</h2>
+            <p class="text-white">{{ data.description }}</p>
             <div id="defaultCountdown" class="mt-5"></div>
             <ul class="social-icons mb-5">
               <li>
@@ -42,9 +42,6 @@
         </div>
         <div class="col-lg-5 col-md-12 col-sm-12">
           <div class="register-form" style="height: 100%">
-            <div class="form-title">
-              <h4>{{ data.rightBox.title }}</h4>
-            </div>
             <form
               id="contact"
               method="post"
@@ -58,6 +55,10 @@
                   class="text-white h4"
                   v-html="data.rightBox.description"
                 ></h5>
+                <p class="text-white mt-5">
+                  *(Offre valable sous condition d’engagement pour signature de
+                  5 contrats de travail)
+                </p>
               </div>
               <br />
               <div id="contact_submit" class="input-box mr mt-5">
@@ -70,15 +71,7 @@
                   {{ data.rightBox.button }}
                 </a>
               </div>
-              <strong
-                >Powered by C<span style="text-transform: lowercase"
-                  >anadin </span
-                >.. T<span style="text-transform: lowercase">he</span> s<span
-                  style="text-transform: lowercase"
-                  >ecret</span
-                >
-                g<span style="text-transform: lowercase">ate</span></strong
-              >
+              <strong>(Dernier délai d’inscription: 10 juin 2023) </strong>
             </form>
           </div>
         </div>
@@ -94,8 +87,8 @@ export default Vue.extend({
   props: {
     data: {
       type: Object,
-      default: null
-    }
-  }
+      default: null,
+    },
+  },
 })
 </script>

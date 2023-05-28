@@ -3,6 +3,7 @@
     <div class="container">
       <div class="row text-center sec-black-hadding">
         <div class="col-lg-12 col-md-12 col-sm-12">
+          <span>Nos évènements</span>
           <h2>{{ data.title }}</h2>
           <hr />
         </div>
@@ -12,15 +13,8 @@
           <div class="item">
             <div class="news-block">
               <figure>
-                <iframe
-                  id="ytplayer"
-                  style="width: 100%"
-                  class="embed-responsive-item"
-                  :src="item.link"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen
-                ></iframe>
+
+                <img style="width: 100%" :src="item.link" alt="">
                 <figcaption>
                   <div class="date">{{ item.date }}</div>
                   <h3>

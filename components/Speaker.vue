@@ -4,9 +4,7 @@
       <figure>
         <img
           :src="
-            speaker.visibleIndex !== index
-              ? speaker.disabledImage
-              : speaker.image
+            speaker.image
           "
           alt="speaker-image"
         />
@@ -20,14 +18,9 @@
           </ul>
         </figcaption>
       </figure>
-      <div class="event-time">
-        <h4>
-          <i class="fa fa-clock-o" aria-hidden="true"></i>{{ speaker.time }}
-        </h4>
-      </div>
       <div class="event-info">
         <p>
-          <i class="fa fa-microphone" aria-hidden="true"></i>{{ speaker.name }}
+          <i class="fa fa-clock-o" aria-hidden="true"></i>{{ speaker.name }}
         </p>
       </div>
     </div>

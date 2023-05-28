@@ -1,0 +1,43 @@
+{
+  "title": "Ce que nos clients pensent de nous",
+  "subtitle": "Nos témoignages",
+  "list": [
+    {
+      "name": "Olivier Brassard",
+      "position": "Cofondateur Tooly",
+      "review": "L’agence ATA a trouvé les bons profils pour nous. Une équipe à l'écoute, professionnelle et qui maîtrise son sujet. Bravo comme toujours !"
+    },
+    {
+      "name": "Emmanuel Chabot",
+      "position": "DRH Groupe Tremblay",
+      "review": "Les candidats sélectionnés pour le poste de soudeur et de journaliers en métallurgie correspondent parfaitement à notre besoin. Merci à ATA de nous avoir facilité la tâche, excellent travail !"
+    },
+    {
+      "name": "Isabelle Grandbois",
+      "position": "Adjointe administrative, GM precision",
+      "review": "J'ai vraiment apprécié de travailler avec vous. Le processus de recrutement a été très professionnel et rapide, j'ai trouvé et recruté le candidat parfait pour le poste. Je recommande vivement ATA et son processus de recrutement moderne pour le marché canadien."
+    },
+    {
+      "name": "Jerome Fortin",
+      "position": "Director at Pro-Flex Rubber",
+      "review": "J’ai le plaisir de travailler en collaboration avec ATA depuis quelques mois déjà.  Leur service professionnel, autant au Québec qu’en Tunisie, me donne confiance. Je me sens encadré dans le processus et , tout aussi important, je sens que mes candidats choisis le sont aussi."
+    },
+    {
+      "name": "Patrick Racicot",
+      "position": "Propriétaire, centre mécanique bromont",
+      "review": "L'équipe de cette agence est très professionnelle. Je vous remercie pour votre grand professionnalisme, votre dynamique et votre disponibilité. Je les recommande vivement."
+    },
+    {
+      "name": "Albert Valenciano Président",
+      "position": "Atelier Desforges",
+      "review": "Pour répondre à notre croissance nous avons fait affaires avec les meilleurs experts. Grace à eux, le recrutement n'a plus de frontière, au delà des démarches administratives Madame Souad Belghith est vraiment une experte en recrutement, elle nous a expliqué clairement et sans surprise les frais et démarches à suivre. Nous recommandons sans aucun doute ATA"
+    },
+
+    {
+      "name": "Claudia Lecours",
+      "position": "Directrice Fix auto",
+      "review": "L'écoute et le soutien de notre équipe lui permettent d'atteindre nos objectifs de recrutement de manière efficace. Merci ATA"
+    }
+  ]
+}
+
