@@ -1,5 +1,5 @@
 {
-  "title": "Profitez de nos services !",
+  "title": "Nos services clé en main",
   "subtitle": "Profitez de nos services !",
   "list": [
     {
@@ -17,9 +17,12 @@
       "title": "Immigration",
       "list": [
         {
+          "title": "Addmissibilité "
+        },
+        {
           "title": "Consultation"
         },
-        { "title": "EMT" },
+        { "title": "EIMT" },
         { "title": "CAQ" },
         { "title": "Permis de travail" }
       ]
@@ -41,7 +44,7 @@
         {
           "title": "Billet d’avion"
         },
-        { "title": "Hébergement en LPD" },
+        { "title": "Hotel en LPD" },
         { "title": "Transferts & navettes" },
         { "title": "Salle et ateliers équipés" }
       ]

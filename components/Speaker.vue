@@ -2,13 +2,8 @@
   <section>
     <div class="event-schedule position-relative">
       <figure>
-        <img
-          :src="
-            speaker.image
-          "
-          alt="speaker-image"
-        />
-        <figcaption>
+        <img :src="speaker.image" alt="speaker-image" />
+        <!-- <figcaption>
           <ul class="event-icon">
             <li>
               <a target="_blank" :href="speaker.linkedin"
@@ -16,7 +11,7 @@
               ></a>
             </li>
           </ul>
-        </figcaption>
+        </figcaption> -->
       </figure>
       <div class="event-info">
         <p>
@@ -34,12 +29,12 @@ export default Vue.extend({
   props: {
     speaker: {
       type: Object,
-      default: null
+      default: null,
     },
     index: {
       type: Number,
-      default: null
-    }
-  }
+      default: null,
+    },
+  },
 })
 </script>

@@ -15,7 +15,14 @@
             :class="{ active: index === 0 }"
           >
             <button>
-              <a style="padding-right:30px !important; padding-left:30px !important" :href="'#' + index + 'a'" data-toggle="tab">
+              <a
+                style="
+                  padding-right: 30px !important;
+                  padding-left: 30px !important;
+                "
+                :href="'#' + index + 'a'"
+                data-toggle="tab"
+              >
                 {{ item.topTitle }}
                 <span>{{ item.date }}</span>
               </a>
@@ -98,8 +105,8 @@ export default Vue.extend({
   props: {
     data: {
       type: Object,
-      default: null
-    }
-  }
+      default: null,
+    },
+  },
 })
 </script>

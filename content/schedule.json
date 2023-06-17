@@ -3,22 +3,22 @@
   "list": [
     {
       "topTitle": "Accueil et installation",
-      "date": "17/09/2023",
+      "date": "02/10/2023",
       "title": ""
     },
     {
       "topTitle": "Entrevues individuelles",
-      "date": "18 & 19 /09/2023",
+      "date": "03 & 04 /10/2023",
       "title": ""
     },
     {
       "topTitle": "Tests de recrutement",
-      "date": "20/09/2023",
+      "date": "05/10/2023",
       "title": ""
     },
     {
       "topTitle": "Finalisation",
-      "date": "21/09/2023",
+      "date": "06/10/2023",
       "title": ""
     }
   ],
@@ -61,12 +61,12 @@
 
   "speakers4": [
     {
-      "name": "Pauses et dégustation locale",
+      "name": "dégustation locale",
       "image": "maurice/program/entrevues/3.png",
       "visibleIndex": 1
     },
     {
-      "name": "Echanges et immersion culturelle",
+      "name": "Immersion culturelle",
       "image": "maurice/program/entrevues/4.png",
       "visibleIndex": 1
     }
@@ -74,7 +74,7 @@
 
   "speakers5": [
     {
-      "name": "Tests pratiques et psychotechniques",
+      "name": "Tests pratiques",
       "image": "maurice/program/tests/1.png",
       "visibleIndex": 2
     },
@@ -113,12 +113,12 @@
 
   "speakers8": [
     {
-      "name": "Dégustation de la gastronomie locale",
+      "name": "Gastronomie locale",
       "image": "maurice/program/finalization/3.png",
       "visibleIndex": 3
     },
     {
-      "name": "Signature des contrats (en soirée)",
+      "name": "Signature des contrats",
       "image": "maurice/program/finalization/4.png",
       "visibleIndex": 3
     }

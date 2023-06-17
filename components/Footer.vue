@@ -20,12 +20,6 @@
           aria-hidden="true"
           target="_blank"
         ></a>
-        <a
-          href="https://www.instagram.com/grj_academy/"
-          class="fa fa-instagram"
-          aria-hidden="true"
-          target="_blank"
-        ></a>
       </div>
     </div>
 
@@ -34,7 +28,7 @@
         <div class="row">
           <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
             <div class="footer-left">
-              <p class="no-margin"><strong>ATA</strong></p>
+              <p class="no-margin"><strong>Accés talents afrique</strong></p>
             </div>
           </div>
           <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
@@ -47,12 +41,10 @@
                   <a href="#event-schedule-sec">Programme</a><span>|</span>
                 </li>
                 <li>
-                  <a href="#previous-event-sec">Nos services</a><span>|</span>
+                  <a href="#event-packages-sec">Nos services</a><span>|</span>
                 </li>
-                <li><a href="#elements">Nos clients</a><span>|</span></li>
-                <li><a href="#elements">Galerie</a><span>|</span></li>
-                <li><a href="#elements">Contacts</a><span>|</span></li>
-                <li><a href="#elements">Eléments</a></li>
+                <li><a href="#sponsors-sec">Nos clients</a><span>|</span></li>
+                <li><a href="#previous-event-sec">Galerie</a><span>|</span></li>
               </ul>
             </div>
           </div>

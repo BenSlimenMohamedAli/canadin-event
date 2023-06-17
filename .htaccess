@@ -1,4 +1,4 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^event.canadin-app\.com [NC]
+RewriteCond %{HTTP_HOST} ^maurice.ataofficiel.com\.com [NC]
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.event.canadin-app.com/$1 [R,L]
+RewriteRule ^(.*)$ https://www.maurice.ataofficiel.com/$1 [R,L]

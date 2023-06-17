@@ -47,7 +47,7 @@
       <Newsletter />
       <!-- END Subscribe newslatter -->
 
-      <Contact />
+      <!-- <Contact /> -->
 
       <Location />
 

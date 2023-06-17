@@ -3,7 +3,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3 col-md-12 col-sm-12">
-          <div class="cd-logo" style="font-size: 30px; color: white">ATA</div>
+          <div class="cd-logo" style="font-size: 20px; color: white">
+            Accés talents afrique
+          </div>
         </div>
         <div class="col-lg-9 col-md-6 col-sm-6">
           <div id="cd-nav">
@@ -12,11 +14,9 @@
               <ul>
                 <li><a href="#our-speakers-sec">Statistiques</a></li>
                 <li><a href="#event-schedule-sec">Programme</a></li>
-                <li><a href="#previous-event-sec">Nos services</a></li>
-                <li><a href="#elements">Nos clients</a></li>
-                <li><a href="#elements">Galerie</a></li>
-                <li><a href="#elements">Contacts</a></li>
-                <li><a href="#elements">Eléments</a></li>
+                <li><a href="#event-packages-sec">Nos services</a></li>
+                <li><a href="#sponsors-sec">Nos clients</a></li>
+                <li><a href="#previous-event-sec">Galerie</a></li>
               </ul>
             </nav>
           </div>

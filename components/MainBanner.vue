@@ -32,11 +32,11 @@
                   ><i class="fa fa-youtube"></i
                 ></a>
               </li>
-              <li>
+              <!-- <li>
                 <a :href="data.instagramLink" target="_blank"
                   ><i class="fa fa-instagram"></i
                 ></a>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
@@ -56,14 +56,13 @@
                   v-html="data.rightBox.description"
                 ></h5>
                 <p class="text-white mt-5">
-                  *(Offre valable sous condition d’engagement pour signature de
-                  5 contrats de travail)
+                  *(Merci de vous referez au conditions …)
                 </p>
               </div>
               <br />
               <div id="contact_submit" class="input-box mr mt-5">
                 <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLScQjWkFm0PpNP7WVNasNyUhuW5eHYM2OlrMEcJCU_vOa0x1QA/viewform?usp=pp_url&entry.1994969570=Option+n%C2%B0+1 "
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSdK0sTeYCYHLjfBrOS-VqESAtBoKhEsnK5Sfpt7okAr9Dv8mw/viewform"
                   class="send_btn submit-btn btn"
                   target="_blank"
                   type="submit"
@@ -71,7 +70,7 @@
                   {{ data.rightBox.button }}
                 </a>
               </div>
-              <strong>(Dernier délai d’inscription: 10 juin 2023) </strong>
+              <strong>(Dernier délai d’inscription: 31 Aout 2023) </strong>
             </form>
           </div>
         </div>

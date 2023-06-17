@@ -22,18 +22,10 @@ export default {
       { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Roboto+Slab:400,700' }
     ],
     script: [
-      {src: "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"},
-      {src: "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"},
-      {src: "https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"},
-      {src: "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"},
-      {src: "/js/modernizr.js"},
-      {src: "/js/jquery-simple-validator.min.js"},
-      { src: '/js/main.js' },
-      { src: '/js/jquery.validate.min.js'},
-      { src: '/js/bootstrap.min.js' },
-      { src: '/js/owl.carousel.min.js' },
-      { src: '/js/custom.js' },
-      { src: '/js/jquery.countdown.js'}
+      { src: "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" },
+      { src: "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" },
+      { src: "https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js" },
+      { src: "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" },
     ],
   },
 
@@ -48,7 +40,17 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-
+    { src: "~/plugins/jquery-1.11.1.js", mode: 'client' },
+    { src: "~/plugins/bootstrap.min.js", mode: 'client' },
+    { src: "~/plugins/jquery-3.3.1.js", mode: 'client' },
+    { src: '~/plugins/js/jquery.validate.min.js', mode: 'client' },
+    { src: '~/plugins/js/bootstrap.min.js', mode: 'client' },
+    { src: "~/plugins/js/modernizr.js", mode: 'client' },
+    { src: "~/plugins/js/jquery-simple-validator.min.js", mode: 'client' },
+    { src: '~/plugins/js/main.js', mode: 'client' },
+    { src: '~/plugins/js/owl.carousel.min.js', mode: 'client' },
+    { src: '~/plugins/js/custom.js', mode: 'client' },
+    { src: '~/plugins/js/jquery.countdown.js', mode: 'client' },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
